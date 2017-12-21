@@ -13,13 +13,8 @@ def stripString(s):
     charList = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '-', '\n'] #LIST OF ACCEPTABLE CHARACTERS
     returnString = ''
 
-    os.system("cls")
-    print s
-    os.system("pause")
-
-
-    if s[0] == '@': #THIS IS A STRING THAT IS UNDESIRED
-        return "" #RETURN A EMPTY STRING
+   # if s[0] == '@': #THIS IS A STRING THAT IS UNDESIRED
+       # return "" #RETURN A EMPTY STRING
 
     for c in s:
         for CHARACTER in charList: #ITERATE THROUGH THE CHARLIST, IF THE CURRENT CHARACTER FROM THE STRING(s) IS ONE FROM THE CHARLIST,
@@ -113,14 +108,47 @@ for _Dictionary in cardActions:
         if DataDictionary.has_key('text'):
             
             #PARSE THIS STRING FOR THE TIME
-            comment = DataDictionary['text'] #THIS IS THE COMMENT FROM THE CARD, MAY CONTAIN MORE THAN ONE TIMESTAMP
+            RAWcomment = DataDictionary['text'] #THIS IS THE COMMENT FROM THE CARD, MAY CONTAIN MORE THAN ONE TIMESTAMP
+            
             #NEEDS WORK, MAKE SURE YOU ARE GETTING ALL THE TIMESTAMPS FROM EACH CARD COMMENT
 
-            processTimeStamp = stripString(comment) #CONVERT THE COMMENT INTO A FORMATED TIMESTAMP STRING
+            # os.system("cls")
+            # print RAWcomment
+            # os.system("pause")
+
+
+
+            #12-21-17
+            #SOME COMMENTS HAVE MORE THAN ONE TIMESTAMP
+            #CREATE A FUNCTION THAT WILL SEPERATE INSTANCES WHERE THERE ARE MORE THAN ONE TIMESTAMP
+
+
+            # line = ""
+            # for char in RAWcomment:
+            #     os.system("cls")
+            #     print char
+            #     os.system("pause")       
+                
+            #     if char == '\n':
+            #         os.system("cls")
+            #         print line
+            #         os.system("pause")
+            #         line = ""                
+                
+            #     line += char
+                
+                    
+
+
+
+            cardActionsFile.write(RAWcomment)
+            cardActionsFile.write('\n')
+
+            #processTimeStamp = stripString(comment) #CONVERT THE COMMENT INTO A FORMATED TIMESTAMP STRING
             #processTimeStamp = comment
 
-            cardActionsFile.write(processTimeStamp)
-            cardActionsFile.write('\n')
+            #cardActionsFile.write(processTimeStamp)
+            #cardActionsFile.write('\n')
             
             #FUNCTION TO PARSE A STRING FOR NUMBERS IN A SPECIFIC FORMAT
 
