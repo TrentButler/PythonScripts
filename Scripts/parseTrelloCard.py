@@ -1,20 +1,21 @@
+import os
+import json
+import urllib2
+import math
+
 #USE 'urllib2' TO GET THE TRELLO CARD'S JSON VERSION
 #PARSE THIS STRING FOR KEYWORDS
 #~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 #OR LOAD IT INTO A JSON OBJECT
 #AND ITERATE THROUGH THAT DICTIONARY
-import os
-import json
-import urllib2
-import math
 
 #FUNCTION TO REMOVE ALL UNDESIRED CHARACTERS FROM A STRING
 def stripString(s):
     charList = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '-', '\n'] #LIST OF ACCEPTABLE CHARACTERS
     returnString = ''
 
-   # if s[0] == '@': #THIS IS A STRING THAT IS UNDESIRED
-       # return "" #RETURN A EMPTY STRING
+    if s[0] == '@': #THIS IS A STRING THAT IS UNDESIRED
+       return "" #RETURN A EMPTY STRING
 
     for c in s:
         for CHARACTER in charList: #ITERATE THROUGH THE CHARLIST, IF THE CURRENT CHARACTER FROM THE STRING(s) IS ONE FROM THE CHARLIST,
@@ -43,14 +44,7 @@ def calculateHours_24(s):
     minutes2 = ""
 
     if len(s) < 9:
-        
-        #print str(s)
-        #os.system("pause")
-
-        return
-        #print s
-        #os.system("pause")
-        #return ()
+        return (0.0, 0.0)
 
     #BEGIN TIME
     hours1 += s[0]
@@ -63,9 +57,6 @@ def calculateHours_24(s):
     hours2 += s[6]    
     minutes2 += s[7]
     minutes2 += s[8]
-
-
-    #os.system("pause")
 
     #CONVERT THE STRINGS INTO A INTEGERS
     hour1_INT = int(hours1)
@@ -81,25 +72,22 @@ def calculateHours_24(s):
     #print (dHour, dMinute)
     #os.system("pause")
     
-    #return (dHour, dMinute)
-    return
+    return (dHour, dMinute)
 
 
-#LOAD THE .JSON VERSION OF A TRELLO CARD
-cardURL = urllib2.urlopen('https://trello.com/c/G7HhEYxC/4-trent-butler.json')
+cardURL = urllib2.urlopen('https://trello.com/c/G7HhEYxC/4-trent-butler.json') #LOAD THE .JSON VERSION OF A TRELLO CARD
 
-#DUMP THE JSON TO A STRING REPRESENTATION
+#DUMP THE JSON TO A STRING REPRESENTATION/FILE
 rawJSON = cardURL.read()
+rawJSONFile = open('rawJSON.txt', 'w+')
+rawJSONFile.write(rawJSON)
+rawJSONFile.close() #CLOSE THE OPEN FILE
 
-#CONVERT THE STRING REPRESENTATION OF THE JSON OBJECT TO A DICTIONARY
-cardDictionary = json.loads(rawJSON)
+cardDictionary = json.loads(rawJSON) #CONVERT THE STRING REPRESENTATION OF THE JSON OBJECT TO A DICTIONARY
 
-#DUMP THE ACTIONS TO A FILE NAMED 'CARDACTIONS'
-#ADD A NEW LINE BETWEEN EACH ACTION
+cardActions = cardDictionary['actions'] #RETRIEVE THE LIST OF ACTIONS FROM THIS CARD
 
-cardActions = cardDictionary['actions']
-
-cardActionsFile = open('cardActions.txt', 'w+')
+cardCommentDump = open('allComments.txt', 'w+')
 
 for _Dictionary in cardActions:
     if _Dictionary.has_key('data'):        
@@ -108,56 +96,55 @@ for _Dictionary in cardActions:
         if DataDictionary.has_key('text'):
             
             #PARSE THIS STRING FOR THE TIME
-            RAWcomment = DataDictionary['text'] #THIS IS THE COMMENT FROM THE CARD, MAY CONTAIN MORE THAN ONE TIMESTAMP
-            
-            #NEEDS WORK, MAKE SURE YOU ARE GETTING ALL THE TIMESTAMPS FROM EACH CARD COMMENT
+            RAWcomment = DataDictionary['text'] #THIS IS THE COMMENT FROM THE CARD, MAY CONTAIN MORE THAN ONE TIMESTAMP            
 
-            # os.system("cls")
-            # print RAWcomment
-            # os.system("pause")
+            cardCommentDump.write(RAWcomment) #DUMP ALL COMMENTS TO A FILE,
+            cardCommentDump.write('\n') #SEPERATED BY A NEW LINE
 
+cardCommentDump.close() #CLOSE THE OPEN FILE
+print "DUMPED ALL COMMENTS TO: (allComments.txt)"
 
+allComments = open('allComments.txt', 'r')
+comments = list(allComments) #STORE ALL THE COMMENTS IN A LIST
+allComments.close() #CLOSE THE OPEN FILE
 
-            #12-21-17
-            #SOME COMMENTS HAVE MORE THAN ONE TIMESTAMP
-            #CREATE A FUNCTION THAT WILL SEPERATE INSTANCES WHERE THERE ARE MORE THAN ONE TIMESTAMP
+commentsWithCalcTime = open('formattedTimestamps.txt', 'w+')
+allTimeStamps = open('allTimeStamps.txt', 'w+')
 
+totalTime = [] #LIST OF CONVERTED TIMESTAMPS
 
-            # line = ""
-            # for char in RAWcomment:
-            #     os.system("cls")
-            #     print char
-            #     os.system("pause")       
-                
-            #     if char == '\n':
-            #         os.system("cls")
-            #         print line
-            #         os.system("pause")
-            #         line = ""                
-                
-            #     line += char
-                
-                    
+for comment in comments:
+    processTimeStamp = stripString(comment) #CONVERT THE COMMENT INTO A FORMATED TIMESTAMP STRING
+    allTimeStamps.write(processTimeStamp)
+    allTimeStamps.write('\n')
 
+    calculatedTime = calculateHours_24(processTimeStamp) #CONVERT THE FORMATED TIMESTAMP STRING INTO A TUPLE REPRESENTING CHANGE IN TIME (HOURS, MINUTES)
+    totalTime.append(calculatedTime) #STORE EACH CHANGE IN TIME IN A LIST
 
+    #FORMAT AND WRITE THE TOTAL CLOCK HOURS TO A FILE
+    commentsWithCalcTime.write(comment)
+    commentsWithCalcTime.write('\n')
+    commentsWithCalcTime.write("CALCULATED TIME " + str(calculatedTime))
+    commentsWithCalcTime.write('\n')
+    commentsWithCalcTime.write('\n')
 
-            cardActionsFile.write(RAWcomment)
-            cardActionsFile.write('\n')
+commentsWithCalcTime.close() #CLOSE THE OPEN FILE
+print "DUMPED FORMATTED TIMESTAMPS TO: (formattedTimestamps.txt)"
 
-            #processTimeStamp = stripString(comment) #CONVERT THE COMMENT INTO A FORMATED TIMESTAMP STRING
-            #processTimeStamp = comment
+hours = 0
+RAWminutes = 0
+minutes = 0
 
-            #cardActionsFile.write(processTimeStamp)
-            #cardActionsFile.write('\n')
-            
-            #FUNCTION TO PARSE A STRING FOR NUMBERS IN A SPECIFIC FORMAT
+#ADD UP ALL THE HOURS AND MINUTES FROM THE CONVERSIONSS
+for time in totalTime:
+    hours += time[0]
+    RAWminutes += time[1]
 
-            #print calculateHours_24(processTimeStamp)
-            #calculateHours_24(processTimeStamp)
-
-            #WRITE THE TOTAL CLOCK HOURS TO A FILE FOR LATE USE
-            #cardActionsFile.write(calculateHours_24(processTimeStamp))
-            #cardActionsFile.write('\n')
-
-cardActionsFile.close()
-print "END OF SCRIPT"
+if RAWminutes > 60:
+    convertedMinutes = divmod(RAWminutes, 60)
+    hours += convertedMinutes[0] #ADD THE EXCESS HOURS TO 'hours'
+    minutes = convertedMinutes[1] #ASSIGN 'minutes' THE REMAINDER MINUTES
+    print "TOTAL TIME: " + str(hours) + " HOURS, " + str(minutes) + " MINUTES"
+    
+else:
+    print "TOTAL TIME: " + str(hours) + " HOURS, " + str(RAWminutes) + " MINUTES"
