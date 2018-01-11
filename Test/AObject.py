@@ -21,7 +21,7 @@ class aObject(object):
 
 
         self.variables = list(set(rawVariables)) #REMOVES DUPLICATES
-        return self.variables
+        return self.variables #RETURN A LIST
     
     def GetPairs(self):
         #FIND THE PAIRS FROM 'expression'
@@ -34,16 +34,37 @@ class aObject(object):
             pairs.append(pair)
         
         self.pairs = pairs
-        return self.pairs
+        return self.pairs #RETURN A LIST
 
-    #def GetClause(self):
+    def GetClauses(self):
+        clause = ''
+        rawClauses = self.expression
+        log = False
+        clauses = []
+        for c in rawClauses:
+            if c is '(':
+                clause += c
+                log = True
+                continue
+            if c is ')':
+                clause += c
+                clauses.append(clause)
+                clause = ''
+                log = False
+                continue
+            if log:
+                clause += c
+
+        self.clauses = clauses
+        return self.clauses
         
 
 def main():
-    testObject = aObject('(A + B) * (B + A) * (!D + E + F)')
+    testObject = aObject('(Z) * (A + B) * (B + A) * (!D + E + F)')
     print 'expression: ' + testObject.expression
     print 'variables: ' + str(testObject.GetVariables())
-    print 'pairs:' + str(testObject.GetPairs())
+    print 'clauses: ' + str(testObject.GetClauses())
+    print 'pairs: ' + str(testObject.GetPairs())
 
 
 main()
