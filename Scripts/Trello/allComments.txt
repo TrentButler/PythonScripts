@@ -1,0 +1,184 @@
+00:15 - 02:21::  "Continued work on 'parseTrelloCard' python script", "Refresher on python file input/output", "Learned about python 'divmod()' function", "Complete 'parseTrelloCard' python script"
+13:50 - 15:02:: "Work on 'parseTrelloCard' python script"
+00:46 - 02:12:: "Complete documentation on Cloth simulation", "Turn in A1US - Physics assessment", "Work on resume"
+10:00 - 12:57:: "Begin work on Cloth simulation documentation"
+
+13:23 - 16:51:: "Presentation from art instructor", "Meet with production team", "Discuss game concept with production team", "Draw up 'map' with @dylanmitchell2"
+09:27 - 12:57:: "Help with web build with @dylanguidry", "Begin documentation on AABB implenetation", "Documentation on Boids required", "Documentation on Cloth Simulation required", "Continued work on 'parseTrelloCard' python script required"
+
+14:12 - 18:06:: "Complete documentation on AABB implementation", "Begin documentation on Boids implementaion, "Begin work on Boids design diagram", "Documentation on Cloth Simulation required"
+
+20:29 - 02:10:: "Complete Boids design diagram", "Complete Boids documentation", "Deploy Boids application to WebGL", "Begin work on Cloth Simulation design diagram", "Complete Cloth Simulation design diagram", "Documentation on Cloth Simulation required"
+20:07 - 21:22:: "Refresher on 'python2.7'", "Begin work on 'parseTrelloCard' python script", "Refresher on python dictionary object", "Refresher on JSON", "Continued work on 'parseTrelloCard' python script required"
+
+22:05 - 00:12:: "Continued work on 'parseTrelloCard' python script", "Further work on 'parseTrelloCard' python script required"
+:thumbsup: 
+21:59 - 23:53:: "Complete 'cloth simulation' user interface", "Attempt to deploy to webGL", "Documentation on cloth simulation"
+:thumbsup: 
+:thumbsup: 
+10:29 - 13:30:: "Continued work on 'click drag' behaviour", "Implementation of aerodynamic forces required"
+
+14:30 - 18:03:: "'Click drag' behavior implementation", "Implementation of aerodynamic forces required", "Work on resume required"
+
+19:14 - 23:08:: "Implementation of aerodynamic force", "Implementation of 'cloth simulation UI' required", "Work on resume required"
+need resume
+
+11:20 - 12:36:: "Work on 'aabb' class", "Further work on 'aabb' required", "Implementation of particle bounding box requried"
+
+13:39 - 18:29:: "Continue work on 'aabb' class", "Begin implentation of particle bounding box", "Further work on 'aabb' class required", "Further work on particle bounding box implementation required"
+
+20:27 - 00:37:: "Implement 'world space cursor'", "Create 'ColliderSystem' class", "Refresher on delegates", "Further work on particle bounding volume implementation required", "Implementation of particle aerodynamic forces required", "Work on resume required"
+22:52 - 23:23:: "Work on 'click drag cloth' implementation", "Implentation of particle bounding box required"
+03:16 - 05:47:: "Continued implementation of 'Cloth'", "Further work on 'Cloth' implementation required"
+
+10:33 - 14:00:: "Lecture on 'Aerodynamic forces'", "Continued work on 'Cloth' implementation"
+
+14:28 - 18:03:: "Afternoon announcments with @chuwilliamson", "Continued work on 'Cloth' implementation", "Research on 'Aerodynamic forces requried", "Work on website required", "Work on resume required"
+10:00 - 13:00:: "Continued lecture on 'spring dampers'", "Group lab exercise", "Complete written exercise"
+
+14:34 - ::"Work on 'cloth simulation' project", "Meeting with @chuwilliamson and @dylanmitchell2", "Work on website", "Begin implementation of 'Cloth'", "Further research on 'Spring Dampers' required"
+13:47 - 17:57:: "Spring damper lecture with @dylanguidry and @chuwilliamson", "Spring damper lab"
+00:38 - 02:34:: "Practice with Unity.Quaternion", "MouseLook camera implementation" , "Further research on 'Perching' flock behavior required"
+10:23 - 11:41:: "Begin work on 'Perching' behavior", "Further research on 'Perching' behavior required", "Refresher on C# Properties"
+06:45 - 08:03:: "Begin work on 'Boids' application bounding volume implementation", "Research on 'Perching' behavior required"
+:thumbsup: 
+09:53 - 12:59:: "Complete 'Boids' application UI", "Bounding volume implementation required"
+12:55 - 14:56:: "Work on 'Boids' application UI", "Main camera behaviour script edits"
+14:27 - 16:27:: "Lab on 'Player controller quick turn'", "Further research on rotations requried"
+16:28 - 17:53:: "Continued work on 'Boids' application UI", "'Boundary' implementation required"
+:thumbsup: 
+@trentbutler https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html
+@chuwilliamson I need to do research on the individual forces used for the flocking calculation, to achieve a better understanding of how boids works.
+@trentbutler what issues are you having that require Further research
+10:30 - 13:00: "Continued practice with 'Boids' implementation"
+14:10 - 17:51: "Further practice with 'Boids' implementation", "Work with @dylanguidry to fix @dylanmitchell2 issues", "Further research on 'Boids' flocking behaviors required", "Practice with maintaining large amounts of 'Agent' objects at runtime required"
+beastmode, where are you in project, we need to do 1v1 with you and @dylanmitchell2 tomorrow
+09:58 - 13:00:: "Lecture on 'Boids' rules", "Work on 'Boids' project"
+14:00 - 18:00:: "Continued work on 'Boids' project", "Dependency injection implementation practice" 
+13:27 - 17:59:: "'Boids' Lecture", "Create Unity project 'Boids'", "Begin work on 'Boids' implementation"
+11:05 - 17:36:: "Lecture on Unity 'ScriptableObject'", "Work on 'Sort and Sweep' implementation"
+10:49 - 13:00:: "Lecture on 'Sort and sweep' algorithm"
+14:00 - 17:54:: "Lecture on 'Fixed timestep'", "Sort and sweep algorithm implementation practice"
+:thumbsup: 
+12:52 - 17:55:: "Presentation of 'Mythos' project", "Lecture on Axis Aligned Bounding Box collision", "Practice on AABB collision"
+09:47 - 19:49:: "GameJam2017"
+09:22 - 13:00:: "Work on 'AIE Game Week' project"
+14:20 - 18:40:: "Continued work on 'AIE Game Week' project", "Recieved 'Mythos_240sx' model", "Created 'Car' prefab"
+
+23:30 - 02:13:: "Continued work on 'AIE Game Week' project", "Created 'enemy' prefab", "Work on 'vehicle shooting' implementation"
+13:01 - 17:45:: "AIE Game Week demo", "Create repository 'GameJam2017'", "Begin work on 'Mythos' project with @dylanmitchell2"
+
+09:15 - 13:05:: "Lecture on 'Game Development'"
+14:10 - 17:59:: "Continued lecture on 'Game Development'", "Work on 'Dkingdom' with @dylanmitchell2"
+08:59 - 13:10:: "Loot table implementation"
+
+14:52 - 17:31:: "Work on 'DKingdom'", "Research on vehicle physics required", "Research on Unity 'WheelCollider' required", "Implementation of 'Transmission' ScriptableObject required"
+
+
+13:10 - 18:00:: "Work on 'DKingdom' with @dylanmitchell2"
+10:00 - 12:55:: "Submit 'A1US ComputerGraphics'"
+
+14:00 - 17:57::"Create project 'Unity-Practice'", "Work on 'Unity-Practice'"
+
+01:19 - 04:18::"Work on project 'Unity-Practice", "Research on 'Wheel Colliders'"
+01:08 - 03:04::"Began work on 'SceneManager' class implementation"
+
+09:40 - 17:50::"Finish documentation on 'A1US-ComputerGraphics'"
+
+11:04 - 17:58:: "Worked on 'trentNoise()' implementation, 'perlinNoise()' implementation, "Documentation on 'A1US Procedural Generation'"
+
+22:00 - 23:06:: "Complete documentation on 'A1US Procedural Generation'", "Refresher on 'C#' required", "Refresher on Unity3D required"
+23:52 - 00:35:: "Worked on 'trentNoise()' implementation"
+10:12 - 13:00:: "Practice with 'trentNoise()' implementation", "Further research on 'Perlin noise' required"
+10:56 - 12:59:: "Lecture on 'Shadows'"
+13:20 - 17:55:: "Work on own implementation of 'perlin noise'"
+10:55 - 17:52:: "Work on 'Perlin noise' implementation", "Help @dylanmitchell2, @nicholasarnaud with 'Perlin noise'"
+10:58 - 12:56:: "Perlin noise implementation practice"
+13:56 - 18:00:: "Continued work on perlin noise implementation"
+22:47 - 23:42:: "Research on 'Perlin Noise' algorithm"
+15:29 - 17:25:: "Documentation on Textures"
+10:30 - 13:30:: "Lecture on 'Animation'", "Bump mapping practice"
+
+14:32 -18:05:: "Practice with texture animation", "Documentation on textures required"
+@chuwilliamson 10:09:: Adding/Researching 'imgui' dependency
+9:34 where are you with project? 
+09:34 - 12:30:: "Lecture on 'Perlin Noise' algorithm"
+14:00 - 17:51:: "Texture practice", "Add 'imgui' dependency", "Research on 'imgui'"
+
+02:10 - 04:05:: "Research on 'Texture Normal Mapping'", "Normal mapping implementation"
+:thumbsup: 
+10:58 - 17:58:: "Lecture on 'Textures'", "Texture practice"
+20:03 - 23:42:: "Documentation on 'Direct Lighting' assessment"
+13:00 - 13:50:: "Lighting documentation"
+09:44 - 17:22:: "Lighting practice"
+08:10 - 10:31:: "Implement 'Diffuse' shader, implement 'Specular' shader"
+
+22:02 - 22:48:: "Implement 'Ambient' shader", "Research on 'Phong lighting model' and 'Blinn-Phong lighting' equation required"
+10:47 - 17:58:: "Create 'Lighting' project", "Work on 'Lighting Tutorial', "Research on 'Phong Lighting required'", "Research on 'Blenn Phong lighting' required"
+
+21:04 - 22:40:: "Work on 'Lighting' project"
+14:56 - 17:57:: "Work on generating sphere, draw sphere with triangle strips"
+11:03 - 18:03:: "Work on 'Rendering Geometry' project", "Further research on 'Triangle Strips' required"
+
+20:00 - 23:53:: "Documentation on 'Rendering Geometry' project", "Further research on generating sphere", "Further research on 'Triangle Strips' required"
+@trentbutler move your card and be an employee
+
+
+15:03 - 17:56:: "Lecture on 'Phong Lighting Model'", "Helped @dylanmitchell2 with 'camera", "Further research on 'Phong Lighting Model' required"
+
+21:38 - 03:32:: "Work on 'Rendering Geometry' project"
+09:03 - 18:07::"Research on 'Textures'", "Lecture on Lighting"
+10:04 -  01:42:: "Continue implementation of object loader method"
+09:42 - 23:02:: "Research on 'wavefront obj file format'"
+22:22 - 23:34:: "Finish refactor 'RenderingGeometry' project", "Implementation of 'object loader' class required"
+08:54 - 17:33:: "OpenGl rendering practice", "Begin refactor of 'RenderingGeometry project"
+22:16 - 23:23:: "OpenGl rendering practice", "Further research on OpenGL rendering required"
+15:39 - 18:00:: "OpenGL rendering practice"
+
+20:00 - 21:13:: "Continued OpenGl rendering practice", "Further research on OpenGl rendering pipeline required"
+15:48 - 16:42:: "'Mesh' class implementation"
+09:55 - 13:10:: "Math quiz", "Review of 'math quiz'", "Lecture on rendering geometry in OpenGL"
+
+14:00 - 18:54:: "OpenGL rendering practice"
+
+20:25 - 23:31:: "Setup ssh key for pc", "Continued OpenGl rendering practice"
+:thumbsup: 
+09:20 - 10:43:: "Work on calculating 'mouse delta'", "research on 'Euler angles' required"
+
+11:43 - 1400:: "Research on Euler angles"
+
+21:33 - 23:39:: "Research on 'yaw' and 'pitch', "'FlyCamera' implementation", " Further research on 'Euler angles' required"
+10:55 - 00:15::"Implement "orthographic" projection", "Test "lookAt()" function"
+@trentbutler :thumbsup: 
+11:21 - 17:59:: "OpenGL 'camera' implementation", "Research rotation matrices"
+09:02 - 13:00:: "OpenGL rendering geometry lecture"
+14:21 - 18:24::"OpenGL 'camera' implementation"
+11:00 - 12:00:: "Matrix review with @chuwilliamson"
+13:01 - 18:02:: "Transformation practice"
+08:44 - 09:38:: "Perspective projection generation research"
+@trentbutler finish your log
+09:30 - 10:23:: "Begin 'camera' implementation"
+11:26 - 01:50:: "Matrix math practice", "Continue 'camera' implementation"
+10:20 - 13:00:: "OpenGL practice"
+14:40 - 17:54:: "Assessment", "Lecture on transformations"
+@trentbutler udabest
+09:58 - 18:05:: "Lecture on setting up dependencies", "OpenGL practice"
+
+
+13:51 - 17:59:: "OpenGL Shader lecture", "Practice with setting up visual studio dependencies"
+
+
+
+
+
+00:21 - 02:38
+"Further implementation on 'Bunny simulation'"
+"Practice with 'vector' storage container"
+
+10:15 - 11:00
+"Begin implementation of 'Bunny simulation'"
+
+12:58 - 14:56
+"Continued implementation of 'Bunny simulation'"
+"Research on 'vector' storage container"
+
