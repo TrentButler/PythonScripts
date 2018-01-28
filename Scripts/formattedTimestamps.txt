@@ -1,0 +1,752 @@
+14:12 - 
+
+CALCULATED TIME (0.0, 0.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+12:12 - 13:10:: "Begin work on 'VehicleMovementBehaviour' unity script", "Research on Unity Raycast", "Further research on Unity Raycast required"
+
+CALCULATED TIME (1.0, 2.0)
+
+@trentbutler nice 
+
+CALCULATED TIME (0.0, 0.0)
+
+00:15 - 02:21::  "Continued work on 'parseTrelloCard' python script", "Refresher on python file input/output", "Learned about python 'divmod()' function", "Complete 'parseTrelloCard' python script"
+
+CALCULATED TIME (2.0, 6.0)
+
+13:50 - 15:02:: "Work on 'parseTrelloCard' python script"
+
+CALCULATED TIME (2.0, 48.0)
+
+00:46 - 02:12:: "Complete documentation on Cloth simulation", "Turn in A1US - Physics assessment", "Work on resume"
+
+CALCULATED TIME (2.0, 34.0)
+
+10:00 - 12:57:: "Begin work on Cloth simulation documentation"
+
+CALCULATED TIME (2.0, 57.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+13:23 - 16:51:: "Presentation from art instructor", "Meet with production team", "Discuss game concept with production team", "Draw up 'map' with @dylanmitchell2"
+
+CALCULATED TIME (3.0, 28.0)
+
+09:27 - 12:57:: "Help with web build with @dylanguidry", "Begin documentation on AABB implenetation", "Documentation on Boids required", "Documentation on Cloth Simulation required", "Continued work on 'parseTrelloCard' python script required"
+
+CALCULATED TIME (3.0, 30.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+14:12 - 18:06:: "Complete documentation on AABB implementation", "Begin documentation on Boids implementaion, "Begin work on Boids design diagram", "Documentation on Cloth Simulation required"
+
+CALCULATED TIME (4.0, 6.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+20:29 - 02:10:: "Complete Boids design diagram", "Complete Boids documentation", "Deploy Boids application to WebGL", "Begin work on Cloth Simulation design diagram", "Complete Cloth Simulation design diagram", "Documentation on Cloth Simulation required"
+
+CALCULATED TIME (18.0, 19.0)
+
+20:07 - 21:22:: "Refresher on 'python2.7'", "Begin work on 'parseTrelloCard' python script", "Refresher on python dictionary object", "Refresher on JSON", "Continued work on 'parseTrelloCard' python script required"
+
+CALCULATED TIME (1.0, 15.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+22:05 - 00:12:: "Continued work on 'parseTrelloCard' python script", "Further work on 'parseTrelloCard' python script required"
+
+CALCULATED TIME (22.0, 7.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+21:59 - 23:53:: "Complete 'cloth simulation' user interface", "Attempt to deploy to webGL", "Documentation on cloth simulation"
+
+CALCULATED TIME (2.0, 6.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+10:29 - 13:30:: "Continued work on 'click drag' behaviour", "Implementation of aerodynamic forces required"
+
+CALCULATED TIME (3.0, 1.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+14:30 - 18:03:: "'Click drag' behavior implementation", "Implementation of aerodynamic forces required", "Work on resume required"
+
+CALCULATED TIME (4.0, 27.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+19:14 - 23:08:: "Implementation of aerodynamic force", "Implementation of 'cloth simulation UI' required", "Work on resume required"
+
+CALCULATED TIME (4.0, 6.0)
+
+need resume
+
+CALCULATED TIME (0.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+11:20 - 12:36:: "Work on 'aabb' class", "Further work on 'aabb' required", "Implementation of particle bounding box requried"
+
+CALCULATED TIME (1.0, 16.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+13:39 - 18:29:: "Continue work on 'aabb' class", "Begin implentation of particle bounding box", "Further work on 'aabb' class required", "Further work on particle bounding box implementation required"
+
+CALCULATED TIME (5.0, 10.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+20:27 - 00:37:: "Implement 'world space cursor'", "Create 'ColliderSystem' class", "Refresher on delegates", "Further work on particle bounding volume implementation required", "Implementation of particle aerodynamic forces required", "Work on resume required"
+
+CALCULATED TIME (20.0, 10.0)
+
+22:52 - 23:23:: "Work on 'click drag cloth' implementation", "Implentation of particle bounding box required"
+
+CALCULATED TIME (1.0, 29.0)
+
+03:16 - 05:47:: "Continued implementation of 'Cloth'", "Further work on 'Cloth' implementation required"
+
+CALCULATED TIME (2.0, 31.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+10:33 - 14:00:: "Lecture on 'Aerodynamic forces'", "Continued work on 'Cloth' implementation"
+
+CALCULATED TIME (4.0, 33.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+14:28 - 18:03:: "Afternoon announcments with @chuwilliamson", "Continued work on 'Cloth' implementation", "Research on 'Aerodynamic forces requried", "Work on website required", "Work on resume required"
+
+CALCULATED TIME (4.0, 25.0)
+
+10:00 - 13:00:: "Continued lecture on 'spring dampers'", "Group lab exercise", "Complete written exercise"
+
+CALCULATED TIME (3.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+14:34 - ::"Work on 'cloth simulation' project", "Meeting with @chuwilliamson and @dylanmitchell2", "Work on website", "Begin implementation of 'Cloth'", "Further research on 'Spring Dampers' required"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:47 - 17:57:: "Spring damper lecture with @dylanguidry and @chuwilliamson", "Spring damper lab"
+
+CALCULATED TIME (4.0, 10.0)
+
+00:38 - 02:34:: "Practice with Unity.Quaternion", "MouseLook camera implementation" , "Further research on 'Perching' flock behavior required"
+
+CALCULATED TIME (2.0, 4.0)
+
+10:23 - 11:41:: "Begin work on 'Perching' behavior", "Further research on 'Perching' behavior required", "Refresher on C# Properties"
+
+CALCULATED TIME (1.0, 18.0)
+
+06:45 - 08:03:: "Begin work on 'Boids' application bounding volume implementation", "Research on 'Perching' behavior required"
+
+CALCULATED TIME (2.0, 42.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+09:53 - 12:59:: "Complete 'Boids' application UI", "Bounding volume implementation required"
+
+CALCULATED TIME (3.0, 6.0)
+
+12:55 - 14:56:: "Work on 'Boids' application UI", "Main camera behaviour script edits"
+
+CALCULATED TIME (2.0, 1.0)
+
+14:27 - 16:27:: "Lab on 'Player controller quick turn'", "Further research on rotations requried"
+
+CALCULATED TIME (2.0, 0.0)
+
+16:28 - 17:53:: "Continued work on 'Boids' application UI", "'Boundary' implementation required"
+
+CALCULATED TIME (1.0, 25.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+@trentbutler https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html
+
+CALCULATED TIME (0.0, 0.0)
+
+@chuwilliamson I need to do research on the individual forces used for the flocking calculation, to achieve a better understanding of how boids works.
+
+CALCULATED TIME (0.0, 0.0)
+
+@trentbutler what issues are you having that require Further research
+
+CALCULATED TIME (0.0, 0.0)
+
+10:30 - 13:00: "Continued practice with 'Boids' implementation"
+
+CALCULATED TIME (3.0, 30.0)
+
+14:10 - 17:51: "Further practice with 'Boids' implementation", "Work with @dylanguidry to fix @dylanmitchell2 issues", "Further research on 'Boids' flocking behaviors required", "Practice with maintaining large amounts of 'Agent' objects at runtime required"
+
+CALCULATED TIME (3.0, 41.0)
+
+beastmode, where are you in project, we need to do 1v1 with you and @dylanmitchell2 tomorrow
+
+CALCULATED TIME (0.0, 0.0)
+
+09:58 - 13:00:: "Lecture on 'Boids' rules", "Work on 'Boids' project"
+
+CALCULATED TIME (4.0, 58.0)
+
+14:00 - 18:00:: "Continued work on 'Boids' project", "Dependency injection implementation practice" 
+
+CALCULATED TIME (4.0, 0.0)
+
+13:27 - 17:59:: "'Boids' Lecture", "Create Unity project 'Boids'", "Begin work on 'Boids' implementation"
+
+CALCULATED TIME (4.0, 32.0)
+
+11:05 - 17:36:: "Lecture on Unity 'ScriptableObject'", "Work on 'Sort and Sweep' implementation"
+
+CALCULATED TIME (6.0, 31.0)
+
+10:49 - 13:00:: "Lecture on 'Sort and sweep' algorithm"
+
+CALCULATED TIME (3.0, 49.0)
+
+14:00 - 17:54:: "Lecture on 'Fixed timestep'", "Sort and sweep algorithm implementation practice"
+
+CALCULATED TIME (3.0, 54.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+12:52 - 17:55:: "Presentation of 'Mythos' project", "Lecture on Axis Aligned Bounding Box collision", "Practice on AABB collision"
+
+CALCULATED TIME (5.0, 3.0)
+
+09:47 - 19:49:: "GameJam2017"
+
+CALCULATED TIME (10.0, 2.0)
+
+09:22 - 13:00:: "Work on 'AIE Game Week' project"
+
+CALCULATED TIME (4.0, 22.0)
+
+14:20 - 18:40:: "Continued work on 'AIE Game Week' project", "Recieved 'Mythos_240sx' model", "Created 'Car' prefab"
+
+CALCULATED TIME (4.0, 20.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+23:30 - 02:13:: "Continued work on 'AIE Game Week' project", "Created 'enemy' prefab", "Work on 'vehicle shooting' implementation"
+
+CALCULATED TIME (21.0, 17.0)
+
+13:01 - 17:45:: "AIE Game Week demo", "Create repository 'GameJam2017'", "Begin work on 'Mythos' project with @dylanmitchell2"
+
+CALCULATED TIME (4.0, 44.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+09:15 - 13:05:: "Lecture on 'Game Development'"
+
+CALCULATED TIME (4.0, 10.0)
+
+14:10 - 17:59:: "Continued lecture on 'Game Development'", "Work on 'Dkingdom' with @dylanmitchell2"
+
+CALCULATED TIME (3.0, 49.0)
+
+08:59 - 13:10:: "Loot table implementation"
+
+CALCULATED TIME (5.0, 49.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+14:52 - 17:31:: "Work on 'DKingdom'", "Research on vehicle physics required", "Research on Unity 'WheelCollider' required", "Implementation of 'Transmission' ScriptableObject required"
+
+CALCULATED TIME (3.0, 21.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+13:10 - 18:00:: "Work on 'DKingdom' with @dylanmitchell2"
+
+CALCULATED TIME (5.0, 10.0)
+
+10:00 - 12:55:: "Submit 'A1US ComputerGraphics'"
+
+CALCULATED TIME (2.0, 55.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+14:00 - 17:57::"Create project 'Unity-Practice'", "Work on 'Unity-Practice'"
+
+CALCULATED TIME (3.0, 57.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+01:19 - 04:18::"Work on project 'Unity-Practice", "Research on 'Wheel Colliders'"
+
+CALCULATED TIME (3.0, 1.0)
+
+01:08 - 03:04::"Began work on 'SceneManager' class implementation"
+
+CALCULATED TIME (2.0, 4.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+09:40 - 17:50::"Finish documentation on 'A1US-ComputerGraphics'"
+
+CALCULATED TIME (8.0, 10.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+11:04 - 17:58:: "Worked on 'trentNoise()' implementation, 'perlinNoise()' implementation, "Documentation on 'A1US Procedural Generation'"
+
+CALCULATED TIME (6.0, 54.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+22:00 - 23:06:: "Complete documentation on 'A1US Procedural Generation'", "Refresher on 'C#' required", "Refresher on Unity3D required"
+
+CALCULATED TIME (1.0, 6.0)
+
+23:52 - 00:35:: "Worked on 'trentNoise()' implementation"
+
+CALCULATED TIME (23.0, 17.0)
+
+10:12 - 13:00:: "Practice with 'trentNoise()' implementation", "Further research on 'Perlin noise' required"
+
+CALCULATED TIME (3.0, 12.0)
+
+10:56 - 12:59:: "Lecture on 'Shadows'"
+
+CALCULATED TIME (2.0, 3.0)
+
+13:20 - 17:55:: "Work on own implementation of 'perlin noise'"
+
+CALCULATED TIME (4.0, 35.0)
+
+10:55 - 17:52:: "Work on 'Perlin noise' implementation", "Help @dylanmitchell2, @nicholasarnaud with 'Perlin noise'"
+
+CALCULATED TIME (7.0, 3.0)
+
+10:58 - 12:56:: "Perlin noise implementation practice"
+
+CALCULATED TIME (2.0, 2.0)
+
+13:56 - 18:00:: "Continued work on perlin noise implementation"
+
+CALCULATED TIME (5.0, 56.0)
+
+22:47 - 23:42:: "Research on 'Perlin Noise' algorithm"
+
+CALCULATED TIME (1.0, 5.0)
+
+15:29 - 17:25:: "Documentation on Textures"
+
+CALCULATED TIME (2.0, 4.0)
+
+10:30 - 13:30:: "Lecture on 'Animation'", "Bump mapping practice"
+
+CALCULATED TIME (3.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+14:32 -18:05:: "Practice with texture animation", "Documentation on textures required"
+
+CALCULATED TIME (4.0, 27.0)
+
+@chuwilliamson 10:09:: Adding/Researching 'imgui' dependency
+
+CALCULATED TIME (0.0, 0.0)
+
+9:34 where are you with project? 
+
+CALCULATED TIME (0.0, 0.0)
+
+09:34 - 12:30:: "Lecture on 'Perlin Noise' algorithm"
+
+CALCULATED TIME (3.0, 4.0)
+
+14:00 - 17:51:: "Texture practice", "Add 'imgui' dependency", "Research on 'imgui'"
+
+CALCULATED TIME (3.0, 51.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+02:10 - 04:05:: "Research on 'Texture Normal Mapping'", "Normal mapping implementation"
+
+CALCULATED TIME (2.0, 5.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+10:58 - 17:58:: "Lecture on 'Textures'", "Texture practice"
+
+CALCULATED TIME (7.0, 0.0)
+
+20:03 - 23:42:: "Documentation on 'Direct Lighting' assessment"
+
+CALCULATED TIME (3.0, 39.0)
+
+13:00 - 13:50:: "Lighting documentation"
+
+CALCULATED TIME (0.0, 50.0)
+
+09:44 - 17:22:: "Lighting practice"
+
+CALCULATED TIME (8.0, 22.0)
+
+08:10 - 10:31:: "Implement 'Diffuse' shader, implement 'Specular' shader"
+
+CALCULATED TIME (2.0, 21.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+22:02 - 22:48:: "Implement 'Ambient' shader", "Research on 'Phong lighting model' and 'Blinn-Phong lighting' equation required"
+
+CALCULATED TIME (0.0, 46.0)
+
+10:47 - 17:58:: "Create 'Lighting' project", "Work on 'Lighting Tutorial', "Research on 'Phong Lighting required'", "Research on 'Blenn Phong lighting' required"
+
+CALCULATED TIME (7.0, 11.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+21:04 - 22:40:: "Work on 'Lighting' project"
+
+CALCULATED TIME (1.0, 36.0)
+
+14:56 - 17:57:: "Work on generating sphere, draw sphere with triangle strips"
+
+CALCULATED TIME (3.0, 1.0)
+
+11:03 - 18:03:: "Work on 'Rendering Geometry' project", "Further research on 'Triangle Strips' required"
+
+CALCULATED TIME (7.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+20:00 - 23:53:: "Documentation on 'Rendering Geometry' project", "Further research on generating sphere", "Further research on 'Triangle Strips' required"
+
+CALCULATED TIME (3.0, 53.0)
+
+@trentbutler move your card and be an employee
+
+CALCULATED TIME (0.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+15:03 - 17:56:: "Lecture on 'Phong Lighting Model'", "Helped @dylanmitchell2 with 'camera", "Further research on 'Phong Lighting Model' required"
+
+CALCULATED TIME (2.0, 53.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+21:38 - 03:32:: "Work on 'Rendering Geometry' project"
+
+CALCULATED TIME (18.0, 6.0)
+
+09:03 - 18:07::"Research on 'Textures'", "Lecture on Lighting"
+
+CALCULATED TIME (9.0, 4.0)
+
+10:04 -  01:42:: "Continue implementation of object loader method"
+
+CALCULATED TIME (9.0, 38.0)
+
+09:42 - 23:02:: "Research on 'wavefront obj file format'"
+
+CALCULATED TIME (14.0, 40.0)
+
+22:22 - 23:34:: "Finish refactor 'RenderingGeometry' project", "Implementation of 'object loader' class required"
+
+CALCULATED TIME (1.0, 12.0)
+
+08:54 - 17:33:: "OpenGl rendering practice", "Begin refactor of 'RenderingGeometry project"
+
+CALCULATED TIME (9.0, 21.0)
+
+22:16 - 23:23:: "OpenGl rendering practice", "Further research on OpenGL rendering required"
+
+CALCULATED TIME (1.0, 7.0)
+
+15:39 - 18:00:: "OpenGL rendering practice"
+
+CALCULATED TIME (3.0, 39.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+20:00 - 21:13:: "Continued OpenGl rendering practice", "Further research on OpenGl rendering pipeline required"
+
+CALCULATED TIME (1.0, 13.0)
+
+15:48 - 16:42:: "'Mesh' class implementation"
+
+CALCULATED TIME (1.0, 6.0)
+
+09:55 - 13:10:: "Math quiz", "Review of 'math quiz'", "Lecture on rendering geometry in OpenGL"
+
+CALCULATED TIME (4.0, 45.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+14:00 - 18:54:: "OpenGL rendering practice"
+
+CALCULATED TIME (4.0, 54.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+20:25 - 23:31:: "Setup ssh key for pc", "Continued OpenGl rendering practice"
+
+CALCULATED TIME (3.0, 6.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+09:20 - 10:43:: "Work on calculating 'mouse delta'", "research on 'Euler angles' required"
+
+CALCULATED TIME (1.0, 23.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+11:43 - 1400:: "Research on Euler angles"
+
+CALCULATED TIME (3.0, 43.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+21:33 - 23:39:: "Research on 'yaw' and 'pitch', "'FlyCamera' implementation", " Further research on 'Euler angles' required"
+
+CALCULATED TIME (2.0, 6.0)
+
+10:55 - 00:15::"Implement "orthographic" projection", "Test "lookAt()" function"
+
+CALCULATED TIME (10.0, 40.0)
+
+@trentbutler :thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+11:21 - 17:59:: "OpenGL 'camera' implementation", "Research rotation matrices"
+
+CALCULATED TIME (6.0, 38.0)
+
+09:02 - 13:00:: "OpenGL rendering geometry lecture"
+
+CALCULATED TIME (4.0, 2.0)
+
+14:21 - 18:24::"OpenGL 'camera' implementation"
+
+CALCULATED TIME (4.0, 3.0)
+
+11:00 - 12:00:: "Matrix review with @chuwilliamson"
+
+CALCULATED TIME (1.0, 0.0)
+
+13:01 - 18:02:: "Transformation practice"
+
+CALCULATED TIME (5.0, 1.0)
+
+08:44 - 09:38:: "Perspective projection generation research"
+
+CALCULATED TIME (1.0, 6.0)
+
+@trentbutler finish your log
+
+CALCULATED TIME (0.0, 0.0)
+
+09:30 - 10:23:: "Begin 'camera' implementation"
+
+CALCULATED TIME (1.0, 7.0)
+
+11:26 - 01:50:: "Matrix math practice", "Continue 'camera' implementation"
+
+CALCULATED TIME (10.0, 24.0)
+
+10:20 - 13:00:: "OpenGL practice"
+
+CALCULATED TIME (3.0, 20.0)
+
+14:40 - 17:54:: "Assessment", "Lecture on transformations"
+
+CALCULATED TIME (3.0, 14.0)
+
+@trentbutler udabest
+
+CALCULATED TIME (0.0, 0.0)
+
+09:58 - 18:05:: "Lecture on setting up dependencies", "OpenGL practice"
+
+CALCULATED TIME (9.0, 53.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+13:51 - 17:59:: "OpenGL Shader lecture", "Practice with setting up visual studio dependencies"
+
+CALCULATED TIME (4.0, 8.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+00:21 - 02:38
+
+CALCULATED TIME (2.0, 17.0)
+
+"Further implementation on 'Bunny simulation'"
+
+CALCULATED TIME (0.0, 0.0)
+
+"Practice with 'vector' storage container"
+
+CALCULATED TIME (0.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+10:15 - 11:00
+
+CALCULATED TIME (1.0, 15.0)
+
+"Begin implementation of 'Bunny simulation'"
+
+CALCULATED TIME (0.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
+12:58 - 14:56
+
+CALCULATED TIME (2.0, 2.0)
+
+"Continued implementation of 'Bunny simulation'"
+
+CALCULATED TIME (0.0, 0.0)
+
+"Research on 'vector' storage container"
+
+CALCULATED TIME (0.0, 0.0)
+
+
+
+CALCULATED TIME (0.0, 0.0)
+
