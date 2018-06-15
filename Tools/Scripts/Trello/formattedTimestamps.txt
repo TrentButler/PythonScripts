@@ -1,68 +1,1072 @@
-00:15 - 02:21::  "Continued work on 'parseTrelloCard' python script", "Refresher on python file input/output", "Learned about python 'divmod()' function", "Complete 'parseTrelloCard' python script"
+08:30-10:30:: "Worked on and learned more about regular expressions to parse through files with @trentbutler"
 
-CALCULATED TIME (2.0, 6.0)
+CALCULATED TIME (0.0, 0.0)
 
-13:50 - 15:02:: "Work on 'parseTrelloCard' python script"
+10:31-11:30:: "Learned a bit about Lua and its syntax"
 
-CALCULATED TIME (2.0, 48.0)
+CALCULATED TIME (0.0, 0.0)
 
-00:46 - 02:12:: "Complete documentation on Cloth simulation", "Turn in A1US - Physics assessment", "Work on resume"
+09:00-13:00:: "Tried to fix an error with Visual Studio and Unity when pressing the play button and crashes."
 
-CALCULATED TIME (2.0, 34.0)
+CALCULATED TIME (0.0, 0.0)
 
-10:00 - 12:57:: "Begin work on Cloth simulation documentation"
+13:01-14:00:: "Lunch"
 
-CALCULATED TIME (2.0, 57.0)
+CALCULATED TIME (0.0, 0.0)
+
+14:01-19:00:: "Work on a script that will help speed up a debugging process for the internship."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:30-13:15:: "Listened to quest speakers in art room."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:16-18:00:: "Removed resume link from website. Worked on internship work"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-11:00:: "Applied at High Voltage."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:01-12:00:: "Lecture on reflection in C# programming"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:00:: "Worked on tutorial for reflection."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-18:30:: "Worked on editing event files for internship."
+
+CALCULATED TIME (0.0, 0.0)
+
+10:40-11:45:: "Worked on fixes for Jungle is Scary with Somsai in the art room."
+
+CALCULATED TIME (0.0, 0.0)
 
 
 
 CALCULATED TIME (0.0, 0.0)
 
-13:23 - 16:51:: "Presentation from art instructor", "Meet with production team", "Discuss game concept with production team", "Draw up 'map' with @dylanmitchell2"
+09:00-10:00:: "Blog assignment"
 
-CALCULATED TIME (3.0, 28.0)
+CALCULATED TIME (0.0, 0.0)
 
-09:27 - 12:57:: "Help with web build with @dylanguidry", "Begin documentation on AABB implenetation", "Documentation on Boids required", "Documentation on Cloth Simulation required", "Continued work on 'parseTrelloCard' python script required"
+10:01-13:00:: "Worked on fixing a issue with the player not teleporting."
 
-CALCULATED TIME (3.0, 30.0)
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-16:00:: "Corrected the teleportation of the player when respawning so the player actually gets moved to the checkpoint after dieing. Corrected the player's re-spawn system to stop re-spawning the player after the player loses all life gems. Corrected the player from being able to run around immortal after dieing without any more life gems. Corrected the item behaviour to update the player's data and the UI when the player picks up a life gem or gem fragment."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:01-18:30:: "Fixed a multitude of small errors and bugs, rebuilt lighting, and made a build."
+
+CALCULATED TIME (0.0, 0.0)
+
+18:31-19:30:: "Placed build onto simmer.io, itch.io, and updated my blog on webpage promoting it."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-10:00:: "Read through documentation"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-12:00:: "Practiced creating custom Unity Window."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-18:00:: "Worked on fixing current bugs with the current build of the game."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:01-12:40:: "Worked on website blog. Created post describing what are Properties and the benefits of using them."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:00-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
 
 
 
 CALCULATED TIME (0.0, 0.0)
 
-14:12 - 18:06:: "Complete documentation on AABB implementation", "Begin documentation on Boids implementaion, "Begin work on Boids design diagram", "Documentation on Cloth Simulation required"
-
-CALCULATED TIME (4.0, 6.0)
-
-
+09:00-10:00:: "Started work on Technical Design Doc for assessment"
 
 CALCULATED TIME (0.0, 0.0)
 
-20:29 - 02:10:: "Complete Boids design diagram", "Complete Boids documentation", "Deploy Boids application to WebGL", "Begin work on Cloth Simulation design diagram", "Complete Cloth Simulation design diagram", "Documentation on Cloth Simulation required"
-
-CALCULATED TIME (18.0, 19.0)
-
-20:07 - 21:22:: "Refresher on 'python2.7'", "Begin work on 'parseTrelloCard' python script", "Refresher on python dictionary object", "Refresher on JSON", "Continued work on 'parseTrelloCard' python script required"
-
-CALCULATED TIME (1.0, 15.0)
-
-
+10:01-11:00:: "Listened to Ms.Cami and Donald talk about opportunities for makeup hours as well as a competition with BigInterview as well as how to find job opportunities."
 
 CALCULATED TIME (0.0, 0.0)
 
-22:05 - 00:12:: "Continued work on 'parseTrelloCard' python script", "Further work on 'parseTrelloCard' python script required"
+11:01-13:00:: "Assignment to give instructions how to get billy to get a ball to jump."
 
-CALCULATED TIME (22.0, 7.0)
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-14:45:: "Finished assignment"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:45-17:35:: "Corrected Issues with the player and sunny doing and receiving damage. Fixed all issues with enemies and player receiving and doing damage."
+
+CALCULATED TIME (0.0, 0.0)
+
+17:36-18:00:: "Attempted to work on website."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-11:45:: "Worked on Enemies dropping gems."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:46-13:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:15:: "Graduation talk"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:16-15:15:: "Assignment for a scenario as a mid-level software engineer mentoring an intern that has nearly committed bad code." 
+
+CALCULATED TIME (0.0, 0.0)
+
+15:16-16:40:: "Review with the assignment and went over with what the problem is and how to go about fixing it."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:41-17:15:: "Went over what is required for our websites as well as what is required for the assessment that is due to this Friday."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-10:30:: "Pressing the Quit button in the pause menu now brings the user back to the correct main menu."
+
+CALCULATED TIME (0.0, 0.0)
+
+10:31-12:00:: "Set UI health to show what the Player Data is for health for better accuracy with the player."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Worked on fixing the UI health to match with the player data health"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-18:00:: "Worked with Mr.Matt on fixing the updates with UI and properly have the player take damage in a better fashion with more clarity. Learned a little bit about dependancy injection"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:00-18:00:: "Tested build and noted bugs that would need to be issued and discussed some feedback given at Artcade. Set to have Sunny stop doing his combo when the player is too far away. Addressed some issues with GitHub on artist side. Added a script that pushes the player out of a collider range used to push the player off the enemy heads."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:01-13:00:: "Small changes to one rock collider to be more accurate. Fixed Sapo's prefab with materials. Adjusted enemy spawn timer."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:20:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:21-15:00:: "Updated website and optimized it a bit to get more traffic from Google searches."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-10:00:: "UI now updates when player picks up gems"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-11:00:: "Updated webpage and added title screen."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:01-13:40:: "Worked on the WoodenCritters Animator and AI state machine."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:41-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-19:30:: "Finished WoodenCritters' AI state machine. Corrected Sunny's movement."
+
+CALCULATED TIME (0.0, 0.0)
+
+19:31-20:45:: "Corrected an art asset with Donald."
+
+CALCULATED TIME (0.0, 0.0)
+
+08:00-12:30:: "Worked on saving the game's volume setting between scenes. Fixed."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:31-13:00:: "Build tested game with the UI."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-16:30:: "Dealt with a large issue with committing to GitHub. Accidentally committed too large of a file locally and couldn't commit to the remote. Needed Wizard Matt's help to kill the large file from the commit."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:31-19:00:: "Worked on the player picking up items and the UI updating appropriately."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-10:00:: "Can now navigate the pause menu. Found that audio settings in the menu screen doesn't save over in the game scene."
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-10:40:: "Discovered loading screen does not appear during build anymore."
+
+CALCULATED TIME (0.0, 0.0)
+
+10:41-11:24:: "Fixed loading screen. Discovered issue with replaying the game after going back to the main menu."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:25-12:30:: "Found the point where the scene breaks. Located in the GameStateMachine, within the coroutine for the WaitForSeconds function."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:31-13:00:: "Fixed Scene transition issue. Never reset the timescale back to 1 when returning to the main menu."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-13:15:: "Discovered another issue with player and game still running when pressing the escape key while stuck in the options menu."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:16-14:16:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:17-15:30:: "Solved prev issue and organized UI layout a bit more. Controller support is now available through all UI menus, testing with player is necessary for check for full controller support"
+
+CALCULATED TIME (0.0, 0.0)
+
+11:00-13:00:: "Worked on getting the game to work with a controller starting with the UI."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-16:00:: "Main menu navigation completed. Still working on when pausing in game."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-12:00:: "Worked on more revisions to the enemy spawning script. Added the wooden critter into the game and tested it with Unity's humanoid animations."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:20:: "Worked on updating my website."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:21-14:21:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:30-17:00:: "Sprint Review"
+
+CALCULATED TIME (0.0, 0.0)
+
+17:01-17:26:: "Updated event to be raised for Sunny's attacks"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-10:00:: "Corrected some issues with enemy spawning script."
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-11:00:: "Optimized movement during Sunny's attacks." 
+
+CALCULATED TIME (0.0, 0.0)
+
+11:01-13:00:: "Found and fixed more errors with the enemy spawning script."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:00-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-14:30:: "Imported and played main character's rig and some animations. Fixed one of the artist's GitHub errors."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:31-16:30:: "Tried to implement Unity's humanoid animations for the main character. The rig on the hands is messed up even after rebinding the configuration of the model."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:31-17:10:: "Helped Regi fix an issue."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:00-16:00:: "Updated project and synced everything to computer.Got caught up with what the group is currently working on. Fixed file location of scenes folder that was accidentally moved. Corrected instantiation position for enemy spawn point."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:01-18:00:: " https://trello.com/c/j7RLbWO8/35-spawn-variable-enemies"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:30-13:00:: "https://trello.com/c/j7RLbWO8/35-spawn-variable-enemies"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:30 - 11:00:: "Setting up computer with the correct Unity version for project."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:10-11:45:: "https://trello.com/c/UH3HdWW6/23-build-the-navmesh-for-the-greybox"
+
+CALCULATED TIME (0.0, 0.0)
+
+11:45-13:00:: "Worked on organizing the project more, rebuilt lighting for the 0.GrayboxEnviroment scene."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-13:45:: "Research on interviews and what to expect."
+
+CALCULATED TIME (0.0, 0.0)
+
+At Redstick in Baton Rouge
+
+CALCULATED TIME (0.0, 0.0)
+
+10:20-12:30:: "Wrote into detail for the wave-based system, how it could be implemented and idea for setting a spawn game object where the player must destroy it to continue."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-11:00:: " https://trello.com/c/Oyzbj98V/34-timer-object-for-transitions"
+
+CALCULATED TIME (0.0, 0.0)
+
+11:01-13:00:: "Refining the timing of particle system with Sunny's animations. Trying to find the best way to do collision checks for Suny."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:00-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-17:00:: " https://trello.com/c/N9CqOBcj/40-sunny-doing-damage"
+
+CALCULATED TIME (0.0, 0.0)
+
+17:01-18:00:: "Helped correct sapo rig with Chase. Small edits in scenes."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:01-11:00:: "Tried to import the main character with the rig with Chase. More work needs to be done with fingers contorted and shirt clipping."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:01-11:40:: "Talked with group with what should be in the game for artcade."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:41-13:00:: "Research on using particle systems with Animation sequence, within Unity."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:00-17:00:: "Sprint meeting discussed what needed to be accomplished for Artcade in 3 weeks."
+
+CALCULATED TIME (0.0, 0.0)
+
+17:01-18:00:: "Fixed Chase's merge conflicts."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:00-14:30:: "Updated GLOBALS script to be compatible with Regi's code."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:31-17:00:: "Tested game with a loading screen. Test scene with post-processing, wind movement, general particle effects."
+
+CALCULATED TIME (0.0, 0.0)
+
+17:01-18:00:: "Tried setting grass to move when the player walks over them. Worked on lighting game."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:10-09:30:: "Corrected another GitHub issue on the art side."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:31-11:20:: "https://trello.com/c/Wh7rL04F/30-game-state-machine" 
+
+CALCULATED TIME (0.0, 0.0)
+
+11:21-11:45:: "Talked with Robin about the Red Stick Festival in Baton Rouge."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:21-13:00:: "https://trello.com/c/Wh7rL04F/30-game-state-machine"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-18:00:: "https://trello.com/c/Wh7rL04F/30-game-state-machine" 
+
+CALCULATED TIME (0.0, 0.0)
+
+10:55-11:30:: "Fixed merge conflicts from the project on the artist side."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:31-12:00:: "Discovered breakpoint statements in visual studio that only stops the program under a certain condition or send a log message."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-14:10:: " https://trello.com/c/Wh7rL04F/30-game-state-machine"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-13:00: "Talked with Cami about jobs and opportunities around Lafayette. Applied to jobs to CGI and other companies around Louisiana."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-15:00:: "Tried implementing a generic interface."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-16:10:: "Talked with Mr.Matt about "generic" interfaces using template types and worked on having an example of such a use."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-16:00:: "Research on generic interfaces and practice implementation in C#."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-12:00:: "Finished implementing item pickups into test scene "NavmeshGreyBox"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:00-12:40:: "Presentation about how Horizon Zero Dawn's AI."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:00-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-15:30:: "Added grass and help with commit errors."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:31-17:30:: "Sprint meeting"
+
+CALCULATED TIME (0.0, 0.0)
+
+17:31-17:35:: "Added Unity's Particle Pack"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Listened to a presentation from Matt and Donald's experience at GDC"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-16:00:: " https://trello.com/c/TSmaWvuO/29-add-sound"
+
+CALCULATED TIME (0.0, 0.0)
+
+16:01-17:20:: "Attempted to implement items into the testing scene and update UI when picked up."
+
+CALCULATED TIME (0.0, 0.0)
+
+17:21-18:00:: "Talked with Chase about the rigidbody of the main character and tested the rig with humanoid animations within unity."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-13:00:: "Updated grey box scene with box colliders. Tested grey box with player and Sunnies. Player clips into some more curved/detailed walls or rocks.Tried using terrain to help achieve better colliders rather than Mesh."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-15:00:: "Add sound"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-17:00:: "Added navmesh to grey box with a lot of Sunnies.Test roamed the map. Tried making custom animation in Unity. Added extra secret model to files."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-10:30:: "Tried implementing main character model, found the scaling to be off and is regular sized at a scale of 6.78... Talked to Chase about rescaling model correctly. Tried implementing grass model and textures."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:00-13:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-13:30:: "Dealt with GitHub errors."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:31-14:00:: "Imported correct player model."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-14:15:: "Listened to Mr.Matt talk about how we should be documenting work."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:16-16:00:: "Read about the commands you can use in git shell."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:01-18:00:: "Read through item pickup behavior scripts."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-10:20:: "Helped artists with GitHub confusion and commit errors."
+
+CALCULATED TIME (0.0, 0.0)
+
+10:21-12:00:: "Added Sunny's uppercut punch animation. Fixed where Sunny faces to not stare at the player when going around obstacles. Added camera a collision volume to avoid walls."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-12:20:: "Research on what would need to be done to have the grass move when the player walks through it as well as research on how to turn a mesh into a terrain."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:21-13:00:: "Talked to Regi with modifying his script to support gem pickup information that the player collects for support with my ticket: https://trello.com/c/wmSUkEzZ/16-picking-up-items-based-on-triggers"
+
+CALCULATED TIME (0.0, 0.0)
+
+13
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-13:30:: "Started changing scripts around to fit @chuwilliamson comment on https://trello.com/c/wmSUkEzZ/16-picking-up-items-based-on-triggers."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:31-14:30:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:31-15:20:: "Completed ticket according to ticket comment with how I understood what he meant."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:21-17:30:: "It was not what was actually meant and added new physics script to check OnTrigger's. Peer coding as well with @chuwilliamson to change how the triggers are sent from a game-object to another. Made more generic scripts to allow flexibility and expansion."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-11:20:: "Refining sunny's movement to seem more realistic."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:21-12:20:: "Looked through @reginaldreed1 player movement script and tried to help fix the players jump."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:00-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-15:00:: "Testing Sunny's movement behaviour in-game and found his rising to be a little strange at the end of the animation. Also added ground slam animation."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-17:00:: "Sprint meeting."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:00-13:25:: "Reviewed the difference between structs and classes and how setting a variable to a reference to a class is a bad idea."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:26-18:00:: "https://trello.com/c/QAyhyZV5/6-enemy-behaviour-buff-flower-movement"
+
+CALCULATED TIME (0.0, 0.0)
+
+16:30-17:00:: "Dealt with GitHub errors when I forgot to sync from the master before making large changes."
+
+CALCULATED TIME (0.0, 0.0)
+
+08:40-10:00:: "https://trello.com/c/wmSUkEzZ/16-picking-up-items-based-on-triggers."
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-11:00:: "Learned how to use GameEventArgs. Began using it on gem and gem fragment pickups. Moved https://trello.com/c/wmSUkEzZ/16-picking-up-items-based-on-triggers to Ready For Review."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:20-11:40:: "@reginaldreed1 read through my cards in the review."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:00-13:00:: "Created a README.md, and CONTRIBUTIONS.md file in the repository."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-14:30:: "Talked to @reginaldreed1 and @chuwilliamson about communicating more and the criteria for the player movement."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:31-15:00:: "Looked on exactly how the camera needs to behave and got an agreement with the team."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-18:00:: "Started and completed https://trello.com/c/6eCQPibT/14-camera-behaviour. with @chuwilliamson's help."
+
+CALCULATED TIME (0.0, 0.0)
+
+08:20:: "Arrived"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:45-09:00:: "Talked to Donald about a guy asking for an artist to create a story."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:25-09:37:: "Daily stand-up."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:38-09:45:: "Imported and added the in-ground idle animation to Sunny."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:46-13:00:: " https://trello.com/c/QAyhyZV5/6-enemy-behaviour-buff-flower "
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:20:: "Committed and moved https://trello.com/c/QAyhyZV5/6-enemy-behaviour-buff-flower to Ready For Review." 
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-17:30:: "https://trello.com/c/wmSUkEzZ/16-picking-up-items-based-on-triggers"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:20:: "Arrived"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:21-14:30:: "Worked more on state transitions with the movement animations."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:31-15:00:: "Stand up with the major production team."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-18:00:: " https://trello.com/c/QAyhyZV5/6-enemy-behaviour-buff-flower"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:45-11:00:: "Added labels to all the tickets on the Sprint board and backlog for major productions project."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:00-14:35:: " https://trello.com/c/QAyhyZV5/6-enemy-behaviour-buff-flower "
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30- 10:30:: "Worked on the parser for the genetic algorithm and set to evaluate a string"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:31-11:00:: "Helped import model of the Buff Sunflower"
+
+CALCULATED TIME (0.0, 0.0)
+
+11:01-11:30:: "Set up parser reading file function to be able to go to a specific expression or to run multiple."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:31-12:45:: "Worked on the genetic algorithm."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:46-13:30:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:31-18:00:: "Revisions on parser to allow the genetic algorithm to use it. the genetic algorithm is able to generate random expression and check for correct expression. NOT able to create new children from previous expressions, however, is able to store the best two string values." 
+
+CALCULATED TIME (0.0, 0.0)
+
+18:01-19:00:: "Creates two kids and places them in the pool."
+
+CALCULATED TIME (0.0, 0.0)
+
+22:00-24:00:: "Finished as much of the genetic algorithm as possible and tested how it works. Then documented and sent it. Updeated: https://trello.com/c/JAf9L6zn/1-genetic-algorithm "
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-12:30:: " https://trello.com/c/JAf9L6zn/1-genetic-algorithm "
+
+CALCULATED TIME (0.0, 0.0)
+
+12:31-13:30:: " https://trello.com/c/QAyhyZV5/6-enemy-behaviour-buff-flower "
+
+CALCULATED TIME (0.0, 0.0)
+
+13:31-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-15:30:: " https://trello.com/c/QAyhyZV5/6-enemy-behaviour-buff-flower "
+
+CALCULATED TIME (0.0, 0.0)
+
+15:51-16:30:: "Work on Genetic Algorithm."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:31-18:00:: "Sprint board review."
+
+CALCULATED TIME (0.0, 0.0)
 
 :thumbsup: 
 
 CALCULATED TIME (0.0, 0.0)
 
-21:59 - 23:53:: "Complete 'cloth simulation' user interface", "Attempt to deploy to webGL", "Documentation on cloth simulation"
+09:45:: "Arrived"
 
-CALCULATED TIME (2.0, 6.0)
+CALCULATED TIME (0.0, 0.0)
 
-:thumbsup: 
+09:46-12:00:: "Read the document on the Genetic Algorithm CNF Solver. Tried to give random values to each variable of 0 or 1."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:10-13:20:: "Created a board for the complex game system assessment and added my proposal."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:21-13:40:: "Small talk about IBM joining with Unity for AI."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:41-14:14:: "Shared Sunny's attack behaviour flowchart to the group and added an image of it on https://trello.com/c/QAyhyZV5/6-enemy-behaviour-buff-flower . Started getting the genetic algorithm parser to read from a file."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:15-14:30:: "Daily standup with major production group and explained where I am at with Sun Flowers behaviour."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:31-16:00:: "Set to read from the file for test cases with the genetic algorithm. Ran reading checks for reading a file. "
+
+CALCULATED TIME (0.0, 0.0)
+
+11:15-11:50:: "Completed Dylan's string morning assignment since he asked."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:51-13:50:: "Worked on diagram of Sunny's attack State Machine."
+
+CALCULATED TIME (0.0, 0.0)
+
+08:00-13:00:: "Made a scriptable object for all general enemy variables. Improved State Machine for https://trello.com/c/QAyhyZV5/6-enemy-behaviour-buff-flower."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-15:38:: "Organized backlog."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:40-16:30::" https://trello.com/c/QAyhyZV5/6-enemy-behaviour-buff-flower."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:31-17:24:: "Talked with the group about how Sunny attacks and ideas for the attack system."
+
+CALCULATED TIME (0.0, 0.0)
+
+17:25:17:45:: "Daily Stand-up."
+
+CALCULATED TIME (0.0, 0.0)
+
+17:46-18:00:: "Talked with artists about pulling from the master branch and keeping updated in GitHub."
+
+CALCULATED TIME (0.0, 0.0)
+
+tag work or make a ticket for what you are doing
+
+CALCULATED TIME (0.0, 0.0)
+
+08:25:: "Arrived"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30-10:00:: "Looked through an open source mod for Dark Souls 3 and looked through the process of gathering information from the game."
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-12:00:: "Lecture on Genetic Algorithms and neural networks with Doctor Josh."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:00:: "More research into machine learning."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-15:00:: "Worked on Genetic Algorithm."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-16:10:: "Instructors reviewed and improved Trello board with the group for our Major Production project."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:11-17:50:: "Worked with artists for them to get the older GitHub client, added as a contributor, and installed the unity version used (2017.3.0). As well as having a forked copy of the current project, and for them to have a clear understanding of how everything needs to be named and branched out."
+
+CALCULATED TIME (0.0, 0.0)
+
+17:51-18:20:: " https://trello.com/c/IhVCX69K/9-add-everyone-as-collaborators"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:30-13:30:: "Continued work on The Jungle is Scary Project with some changes to the "BuffFlowerBehaviour"."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:31-14:00:: "Listened to Lecture about Agile Development."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01- 15:00:: "Listened to guest speaker, James Debaillon, speak about his job as a Scrum Master and his role in the development process in CGI."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-15:30:: "Lecture about what will be the logging standard in Trello and the future flow the major production projects."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:31-18:00:: "Began flushing out health system for enemies."
+
+CALCULATED TIME (0.0, 0.0)
+
+18:01- 19:00:: "More research on what my complex game system will be."
+
+CALCULATED TIME (0.0, 0.0)
+
+23:20-23:45:: "Corrected a couple of scripts with incorrect name and created scriptable object to hold general health data for enemies."
+
+CALCULATED TIME (0.0, 0.0)
+
+ref is not a parameter, it is an additional keyword to use with arguments to specify that it is a reference value
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-10:40:: "Continued work on Buff Flower behavior in our Major Production Project and research on the "ref" keyword in a parameter in C#."
+
+CALCULATED TIME (0.0, 0.0)
+
+08:00-09:30:: "Continued work on the laser for flower enemy."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:31-10:30:: "Started working on Sunny's (Buff Flower) behaviour."
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30:: "Arrived in class"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:31-11:10:: "Looked over and improved slides for pitch."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:11-11:55:: "Game pitch and feedback. Spoke with Evan Smith and Nicholas Laborde for further feedback on marketing game and game scope as well as ideas for in-depth ai."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:00-13:00:: "Talked with the group about what we will plan on going from this point."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-15:00:: "Created and added a second pitch feedback document"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-18:00:: "Continued work on laser flower behaviour."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-11:30:: "Continued with organizing UI systems and adding art textures to sliders."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:31-12:00:: "Lecture on Visual Scripting."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:00:: "Assignment for Visual Scripting."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-17:00:: "Helped update slideshow and more updates to UI textures."
+
+CALCULATED TIME (0.0, 0.0)
+
+17:01-17:30:: "Talked with group about what we will do for the pitch tomorrow."
+
+CALCULATED TIME (0.0, 0.0)
+
+17:31-18:30:: "Worked on the behaviour pattern for a laser eye flower."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:30-13:30:: "Continued work on the genetic algorithm"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:31-14:30:: "Lecture on local co-op"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:31-16:00:: "Added some updated textures into the game for UI"
+
+CALCULATED TIME (0.0, 0.0)
+
+16:01-18:00:: "Improved some of the UI layout, and updated button textures. Worked with Mr.Matthew on how the "Vertical Layout Group" script works and how to include sliders within those panels."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-11:00:: "Prepared to present game-pitch."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:01-11:30:: "Presented game-pitch in front of instructors, Dr. Josh, and Chairman of AIE."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:31-12:30:: "Gathered feedback and discussed what the group can improve on for next week."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:31-13:30:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:31-18:00:: "Changed and edited presentation slides, edited game documents and added more information. Documented feedback for future reference."
+
+CALCULATED TIME (0.0, 0.0)
+
+08:40:: "Arrived"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-09:30:: "Talked with artists about how the game docs will be formatted."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:31-13:00:: "Worked on Frog enemy behavior and ran into a conflict involving a game-object to move forward when using Unity's LookAt and Rotation functions at another game-object."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-16:00:: "Fixed and improved Frog enemy behavior."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:01-20:15:: "Worked on PowerPoint with the group for the game pitch tomorrow."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:40-13:45:: "Worked on the 400-word essay for complex game systems" 
+
+CALCULATED TIME (0.0, 0.0)
+
+13:46-15:45:: "Video on an AI rant and learned what is needed for the pitch Friday. Game Docs, and powerpoint."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:46-16:45:: "Talked with the group about the updates of the game."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:46-17:10:: "Continued work on the complex game system pitch explaining my understanding of machine learning so far and what I would like to accomplish with it."
+
+CALCULATED TIME (0.0, 0.0)
+
+17:11-18:00:: "Further research on Reinforcement Learning in Machine Learning algorithms."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:00-14:00:: "Researched Machine Learning and how it is different from other forms of AI."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:00-14:45:: "Reviewed more about genetic algorithms"
 
 CALCULATED TIME (0.0, 0.0)
 
@@ -70,667 +1074,1332 @@ CALCULATED TIME (0.0, 0.0)
 
 CALCULATED TIME (0.0, 0.0)
 
-10:29 - 13:30:: "Continued work on 'click drag' behaviour", "Implementation of aerodynamic forces required"
-
-CALCULATED TIME (3.0, 1.0)
-
-
+08:40:: "Arrived"
 
 CALCULATED TIME (0.0, 0.0)
 
-14:30 - 18:03:: "'Click drag' behavior implementation", "Implementation of aerodynamic forces required", "Work on resume required"
-
-CALCULATED TIME (4.0, 27.0)
-
-
+09:00-10:30:: "Worked on setting up UI to update when the player gets health or damaged. Talked to artists to start grey-boxing different objects."
 
 CALCULATED TIME (0.0, 0.0)
 
-19:14 - 23:08:: "Implementation of aerodynamic force", "Implementation of 'cloth simulation UI' required", "Work on resume required"
-
-CALCULATED TIME (4.0, 6.0)
-
-need resume
+10:31-12:00:: "Got heart textures to represent the player's health and set up to swap when the heart is empty."
 
 CALCULATED TIME (0.0, 0.0)
 
-
-
-CALCULATED TIME (0.0, 0.0)
-
-11:20 - 12:36:: "Work on 'aabb' class", "Further work on 'aabb' required", "Implementation of particle bounding box requried"
-
-CALCULATED TIME (1.0, 16.0)
-
-
+12:00-13:00:: "Lunch"
 
 CALCULATED TIME (0.0, 0.0)
 
-13:39 - 18:29:: "Continue work on 'aabb' class", "Begin implentation of particle bounding box", "Further work on 'aabb' class required", "Further work on particle bounding box implementation required"
-
-CALCULATED TIME (5.0, 10.0)
-
-
+13:01-14:30:: "Lecture on Virtual Reality and its history."
 
 CALCULATED TIME (0.0, 0.0)
 
-20:27 - 00:37:: "Implement 'world space cursor'", "Create 'ColliderSystem' class", "Refresher on delegates", "Further work on particle bounding volume implementation required", "Implementation of particle aerodynamic forces required", "Work on resume required"
-
-CALCULATED TIME (20.0, 10.0)
-
-22:52 - 23:23:: "Work on 'click drag cloth' implementation", "Implentation of particle bounding box required"
-
-CALCULATED TIME (1.0, 29.0)
-
-03:16 - 05:47:: "Continued implementation of 'Cloth'", "Further work on 'Cloth' implementation required"
-
-CALCULATED TIME (2.0, 31.0)
-
-
+14:31-16:00:: "Talked with the group about considering having whip attacks as animations rather than relying on Unity Physics. Adjusted and reformated UI to be more versatile."
 
 CALCULATED TIME (0.0, 0.0)
 
-10:33 - 14:00:: "Lecture on 'Aerodynamic forces'", "Continued work on 'Cloth' implementation"
-
-CALCULATED TIME (4.0, 33.0)
-
-
+08:40:: "Arrived"
 
 CALCULATED TIME (0.0, 0.0)
 
-14:28 - 18:03:: "Afternoon announcments with @chuwilliamson", "Continued work on 'Cloth' implementation", "Research on 'Aerodynamic forces requried", "Work on website required", "Work on resume required"
-
-CALCULATED TIME (4.0, 25.0)
-
-10:00 - 13:00:: "Continued lecture on 'spring dampers'", "Group lab exercise", "Complete written exercise"
-
-CALCULATED TIME (3.0, 0.0)
-
-
+09:00-12:00:: "Continued working on UI and script for navigation through menus."
 
 CALCULATED TIME (0.0, 0.0)
 
-14:34 - ::"Work on 'cloth simulation' project", "Meeting with @chuwilliamson and @dylanmitchell2", "Work on website", "Begin implementation of 'Cloth'", "Further research on 'Spring Dampers' required"
+12:01-13:00:: "Lunch"
 
 CALCULATED TIME (0.0, 0.0)
 
-13:47 - 17:57:: "Spring damper lecture with @dylanguidry and @chuwilliamson", "Spring damper lab"
+13:01-15:00:: "Lecture on Audio"
 
-CALCULATED TIME (4.0, 10.0)
+CALCULATED TIME (0.0, 0.0)
 
-00:38 - 02:34:: "Practice with Unity.Quaternion", "MouseLook camera implementation" , "Further research on 'Perching' flock behavior required"
+15:01-18:00:: "Improved UI script and set up scriptable objects for event listeners."
 
-CALCULATED TIME (2.0, 4.0)
+CALCULATED TIME (0.0, 0.0)
 
-10:23 - 11:41:: "Begin work on 'Perching' behavior", "Further research on 'Perching' behavior required", "Refresher on C# Properties"
+13:00-14:00:: "Worked on UI for the end of year game."
 
-CALCULATED TIME (1.0, 18.0)
+CALCULATED TIME (0.0, 0.0)
 
-06:45 - 08:03:: "Begin work on 'Boids' application bounding volume implementation", "Research on 'Perching' behavior required"
+14:01-16:30:: "Lecture on Genetic Algorithms."
 
-CALCULATED TIME (2.0, 42.0)
+CALCULATED TIME (0.0, 0.0)
+
+16:31-18:00:: "Listened to Cami talk about resumes.Improved more on the resume."
+
+CALCULATED TIME (0.0, 0.0)
 
 :thumbsup: 
 
 CALCULATED TIME (0.0, 0.0)
 
-09:53 - 12:59:: "Complete 'Boids' application UI", "Bounding volume implementation required"
+09:00-10:00:: "Website and prototype work"
 
-CALCULATED TIME (3.0, 6.0)
+CALCULATED TIME (0.0, 0.0)
 
-12:55 - 14:56:: "Work on 'Boids' application UI", "Main camera behaviour script edits"
+10:01-11:00:: "Lecture on Fuzzy Logic"
 
-CALCULATED TIME (2.0, 1.0)
+CALCULATED TIME (0.0, 0.0)
 
-14:27 - 16:27:: "Lab on 'Player controller quick turn'", "Further research on rotations requried"
+12:01-13:00:: "Lab and started with prototype UI Menus."
 
-CALCULATED TIME (2.0, 0.0)
+CALCULATED TIME (0.0, 0.0)
 
-16:28 - 17:53:: "Continued work on 'Boids' application UI", "'Boundary' implementation required"
+13:01-14:00:: "Lunch"
 
-CALCULATED TIME (1.0, 25.0)
+CALCULATED TIME (0.0, 0.0)
+
+14:01-15:00:: "Lecture on Networking"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-18:00:: "Repitched game and got more feedback where the project should go. Lab with setting up networking game for player name over the player."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:45:: "Arrived"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:00-12:00:: "Lecture on multi-threading"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:00:: "Worked on improving parser"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-15:30:: "Lecture on Networking"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:31-18:00:: "Worked on Networking exercice"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:30-10:20:: "Improved and updated resume"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-13:30:: "Worked on Python assignment"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:31-15:00:: "Watched Art instructors pitch their games and how we should go about pitching ours."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-15:30:: "Talked with the group to be sure everything was understood so there isn't any confusion when re-pitching the game."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:31-18:00:: "Continued on parsing assignment"
+
+CALCULATED TIME (0.0, 0.0)
+
+@chuwilliamson https://github.com/NicholasArnaud/The-Jungle-Is-Scary
+
+CALCULATED TIME (0.0, 0.0)
+
+@nicholasarnaud link to repo?
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30:: "Arrived at AIE"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-10:00:: "Updated Unity to 2017.3, Set up repository for game project, added group members as contributors."
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-13:00:: "Improved trello board for game. Revised and set a convention for the work process for Trello and GitHub as well as setting the naming convention for artist objects"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-13:30:: "Added more folders into project for better organization"
+
+CALCULATED TIME (0.0, 0.0)
 
 :thumbsup: 
 
 CALCULATED TIME (0.0, 0.0)
 
-@trentbutler https://cs.stanford.edu/people/eroberts/courses/soco/projects/2008-09/modeling-natural-systems/boids.html
+12:20-14:00:: "Talked with members of the group to figure what exactly the game should be. Came up with more game ideas."
 
 CALCULATED TIME (0.0, 0.0)
 
-@chuwilliamson I need to do research on the individual forces used for the flocking calculation, to achieve a better understanding of how boids works.
+14:45-15:10:: "Took a poll on the genre and where it will take place. Talked about future meetup times during pax."
 
 CALCULATED TIME (0.0, 0.0)
 
-@trentbutler what issues are you having that require Further research
+15:11-19:40:: "Gathered more detailed information about the game"
 
 CALCULATED TIME (0.0, 0.0)
 
-10:30 - 13:00: "Continued practice with 'Boids' implementation"
-
-CALCULATED TIME (3.0, 30.0)
-
-14:10 - 17:51: "Further practice with 'Boids' implementation", "Work with @dylanguidry to fix @dylanmitchell2 issues", "Further research on 'Boids' flocking behaviors required", "Practice with maintaining large amounts of 'Agent' objects at runtime required"
-
-CALCULATED TIME (3.0, 41.0)
-
-beastmode, where are you in project, we need to do 1v1 with you and @dylanmitchell2 tomorrow
+09:01-10:00:: "Research on python modules and uses for several modules like pyHook."
 
 CALCULATED TIME (0.0, 0.0)
 
-09:58 - 13:00:: "Lecture on 'Boids' rules", "Work on 'Boids' project"
+10:01-11:40:: "Worked on a keylogger using python with modules pyHook, pythoncom, sys, and logging."
 
-CALCULATED TIME (4.0, 58.0)
+CALCULATED TIME (0.0, 0.0)
 
-14:00 - 18:00:: "Continued work on 'Boids' project", "Dependency injection implementation practice" 
+11:41-12:55:: "Game pitch with the group and instructors. Was recommended to restart from scratch. Talked with the group to get more ideas."
 
-CALCULATED TIME (4.0, 0.0)
+CALCULATED TIME (0.0, 0.0)
 
-13:27 - 17:59:: "'Boids' Lecture", "Create Unity project 'Boids'", "Begin work on 'Boids' implementation"
+12:56-14:00:: "Lunch"
 
-CALCULATED TIME (4.0, 32.0)
+CALCULATED TIME (0.0, 0.0)
 
-11:05 - 17:36:: "Lecture on Unity 'ScriptableObject'", "Work on 'Sort and Sweep' implementation"
+14:01-18:00:: "Tried to set the script to send an email to me."
 
-CALCULATED TIME (6.0, 31.0)
+CALCULATED TIME (0.0, 0.0)
 
-10:49 - 13:00:: "Lecture on 'Sort and sweep' algorithm"
+09:00-13:00:: "Got reaccustomed to Python syntax and setting up its library's in visual code. Created a rough solution to my problem to search through an entire directory for files and rename them."
 
-CALCULATED TIME (3.0, 49.0)
+CALCULATED TIME (0.0, 0.0)
 
-14:00 - 17:54:: "Lecture on 'Fixed timestep'", "Sort and sweep algorithm implementation practice"
+13:01-14:00:: "Lunch"
 
-CALCULATED TIME (3.0, 54.0)
+CALCULATED TIME (0.0, 0.0)
+
+14:01-16:30:: "Tried creating a cleaner solution for song mp3 formats using "eyed" library to get author and title names."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:31-17:00:: "Created Trello board for the end of the year game project, set time when the project will be set to pitch our game to the instructors."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:20-14:00:: "Lecture on Paper Prototyping and when the game pitch is due."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-14:30:: "Talked more about the game with the artists in the group."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:31-15:00:: "Worked on the business cards and ordered it for PAX South."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-18:00:: "Messed with website settings and domain management"
+
+CALCULATED TIME (0.0, 0.0)
 
 :thumbsup: 
 
 CALCULATED TIME (0.0, 0.0)
 
-12:52 - 17:55:: "Presentation of 'Mythos' project", "Lecture on Axis Aligned Bounding Box collision", "Practice on AABB collision"
-
-CALCULATED TIME (5.0, 3.0)
-
-09:47 - 19:49:: "GameJam2017"
-
-CALCULATED TIME (10.0, 2.0)
-
-09:22 - 13:00:: "Work on 'AIE Game Week' project"
-
-CALCULATED TIME (4.0, 22.0)
-
-14:20 - 18:40:: "Continued work on 'AIE Game Week' project", "Recieved 'Mythos_240sx' model", "Created 'Car' prefab"
-
-CALCULATED TIME (4.0, 20.0)
-
-
+18:10-19:00:: "Found a problem to solve with Python involving finding and renaming files within a selected folder. Started brainstorming how to go about solving the problem."
 
 CALCULATED TIME (0.0, 0.0)
 
-23:30 - 02:13:: "Continued work on 'AIE Game Week' project", "Created 'enemy' prefab", "Work on 'vehicle shooting' implementation"
-
-CALCULATED TIME (21.0, 17.0)
-
-13:01 - 17:45:: "AIE Game Week demo", "Create repository 'GameJam2017'", "Begin work on 'Mythos' project with @dylanmitchell2"
-
-CALCULATED TIME (4.0, 44.0)
-
-
+22:10-22:45:: "Started trying to get a way to get file information."
 
 CALCULATED TIME (0.0, 0.0)
 
-09:15 - 13:05:: "Lecture on 'Game Development'"
-
-CALCULATED TIME (4.0, 10.0)
-
-14:10 - 17:59:: "Continued lecture on 'Game Development'", "Work on 'Dkingdom' with @dylanmitchell2"
-
-CALCULATED TIME (3.0, 49.0)
-
-08:59 - 13:10:: "Loot table implementation"
-
-CALCULATED TIME (5.0, 49.0)
-
-
+11:45-12:00:: "Updated the description of my Boids and Cloth project in simmer.io to be the same as my documentation with minor changes."
 
 CALCULATED TIME (0.0, 0.0)
 
-14:52 - 17:31:: "Work on 'DKingdom'", "Research on vehicle physics required", "Research on Unity 'WheelCollider' required", "Implementation of 'Transmission' ScriptableObject required"
-
-CALCULATED TIME (3.0, 21.0)
-
-
+08:50-11:30:: "Changed UI, added directions and uploaded cloth simulation to simmer.io. https://simmer.io/@NicholasArnaud/physics-cloth. https://simmer.io/@NicholasArnaud/physics-boids"
 
 CALCULATED TIME (0.0, 0.0)
 
-
-
-CALCULATED TIME (0.0, 0.0)
-
-13:10 - 18:00:: "Work on 'DKingdom' with @dylanmitchell2"
-
-CALCULATED TIME (5.0, 10.0)
-
-10:00 - 12:55:: "Submit 'A1US ComputerGraphics'"
-
-CALCULATED TIME (2.0, 55.0)
-
-
+11:31-12:30:: "Corrected colliding list errors in AABB project. Started Documentation for assessment."
 
 CALCULATED TIME (0.0, 0.0)
 
-14:00 - 17:57::"Create project 'Unity-Practice'", "Work on 'Unity-Practice'"
-
-CALCULATED TIME (3.0, 57.0)
-
-
+12:31-13:10:: "Lunch. Today Jimmy Johns was in fact, not freaky fast."
 
 CALCULATED TIME (0.0, 0.0)
 
-01:19 - 04:18::"Work on project 'Unity-Practice", "Research on 'Wheel Colliders'"
-
-CALCULATED TIME (3.0, 1.0)
-
-01:08 - 03:04::"Began work on 'SceneManager' class implementation"
-
-CALCULATED TIME (2.0, 4.0)
-
-
+13:11-15:30:: "Lecture on how the process of the next assessment will happen and what will be expected"
 
 CALCULATED TIME (0.0, 0.0)
 
-09:40 - 17:50::"Finish documentation on 'A1US-ComputerGraphics'"
-
-CALCULATED TIME (8.0, 10.0)
-
-
+15:31-16:00:: "Created 3 sentences that summarized what we decided with our group as a concept for the end of the year project."
 
 CALCULATED TIME (0.0, 0.0)
 
-11:04 - 17:58:: "Worked on 'trentNoise()' implementation, 'perlinNoise()' implementation, "Documentation on 'A1US Procedural Generation'"
-
-CALCULATED TIME (6.0, 54.0)
-
-
+16:01-17:00:: "Continued documentation."
 
 CALCULATED TIME (0.0, 0.0)
 
-22:00 - 23:06:: "Complete documentation on 'A1US Procedural Generation'", "Refresher on 'C#' required", "Refresher on Unity3D required"
-
-CALCULATED TIME (1.0, 6.0)
-
-23:52 - 00:35:: "Worked on 'trentNoise()' implementation"
-
-CALCULATED TIME (23.0, 17.0)
-
-10:12 - 13:00:: "Practice with 'trentNoise()' implementation", "Further research on 'Perlin noise' required"
-
-CALCULATED TIME (3.0, 12.0)
-
-10:56 - 12:59:: "Lecture on 'Shadows'"
-
-CALCULATED TIME (2.0, 3.0)
-
-13:20 - 17:55:: "Work on own implementation of 'perlin noise'"
-
-CALCULATED TIME (4.0, 35.0)
-
-10:55 - 17:52:: "Work on 'Perlin noise' implementation", "Help @dylanmitchell2, @nicholasarnaud with 'Perlin noise'"
-
-CALCULATED TIME (7.0, 3.0)
-
-10:58 - 12:56:: "Perlin noise implementation practice"
-
-CALCULATED TIME (2.0, 2.0)
-
-13:56 - 18:00:: "Continued work on perlin noise implementation"
-
-CALCULATED TIME (5.0, 56.0)
-
-22:47 - 23:42:: "Research on 'Perlin Noise' algorithm"
-
-CALCULATED TIME (1.0, 5.0)
-
-15:29 - 17:25:: "Documentation on Textures"
-
-CALCULATED TIME (2.0, 4.0)
-
-10:30 - 13:30:: "Lecture on 'Animation'", "Bump mapping practice"
-
-CALCULATED TIME (3.0, 0.0)
-
-
+18:00-21:20:: "Completed documentation for web."
 
 CALCULATED TIME (0.0, 0.0)
 
-14:32 -18:05:: "Practice with texture animation", "Documentation on textures required"
-
-CALCULATED TIME (4.0, 27.0)
-
-@chuwilliamson 10:09:: Adding/Researching 'imgui' dependency
+21:21-24:00:: "Work on UML diagrams, Turned in assessment."
 
 CALCULATED TIME (0.0, 0.0)
 
-9:34 where are you with project? 
+08:45-09:30:: "Redone names in several scripts to make the cloth simulation work again."
 
 CALCULATED TIME (0.0, 0.0)
 
-09:34 - 12:30:: "Lecture on 'Perlin Noise' algorithm"
-
-CALCULATED TIME (3.0, 4.0)
-
-14:00 - 17:51:: "Texture practice", "Add 'imgui' dependency", "Research on 'imgui'"
-
-CALCULATED TIME (3.0, 51.0)
-
-
+09:31-11:00:: "Experimented with using line renderers to display the spring dampers for the cloth."
 
 CALCULATED TIME (0.0, 0.0)
 
-02:10 - 04:05:: "Research on 'Texture Normal Mapping'", "Normal mapping implementation"
+11:01-13:00:: "Worked on improving how the particles looked and set specific colors for if forces are being applied to it or a particle is selected."
 
-CALCULATED TIME (2.0, 5.0)
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-18:00:: "Able to click on particles and drag them around. With right click, you can lock the particle's position. Improved and corrected gravity and wind forces."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:45-14:30:: "Christmas Party"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:31-14:50:: "Weekly Standup"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:00-15:35:: "Went through what is needed for documentation"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:36-18:00:: "Reviewed code for clothe and discovered some major naming errors for the particle and particle behaviour. Changed names and went through all scripts correcting errors from the change."
+
+CALCULATED TIME (0.0, 0.0)
+
+19:21-21:30:: "Practiced math equations"
+
+CALCULATED TIME (0.0, 0.0)
 
 :thumbsup: 
 
 CALCULATED TIME (0.0, 0.0)
 
-10:58 - 17:58:: "Lecture on 'Textures'", "Texture practice"
-
-CALCULATED TIME (7.0, 0.0)
-
-20:03 - 23:42:: "Documentation on 'Direct Lighting' assessment"
-
-CALCULATED TIME (3.0, 39.0)
-
-13:00 - 13:50:: "Lighting documentation"
-
-CALCULATED TIME (0.0, 50.0)
-
-09:44 - 17:22:: "Lighting practice"
-
-CALCULATED TIME (8.0, 22.0)
-
-08:10 - 10:31:: "Implement 'Diffuse' shader, implement 'Specular' shader"
-
-CALCULATED TIME (2.0, 21.0)
-
-
+13:01-21:40:: "Particles can now break away from the cloth. Changes in variables for the aerodynamic and damper behaviours. Added UI and can now "select" particles to lock them in place. Can go through different locked particle presets to fully see what is happening in the scene."
 
 CALCULATED TIME (0.0, 0.0)
 
-22:02 - 22:48:: "Implement 'Ambient' shader", "Research on 'Phong lighting model' and 'Blinn-Phong lighting' equation required"
-
-CALCULATED TIME (0.0, 46.0)
-
-10:47 - 17:58:: "Create 'Lighting' project", "Work on 'Lighting Tutorial', "Research on 'Phong Lighting required'", "Research on 'Blenn Phong lighting' required"
-
-CALCULATED TIME (7.0, 11.0)
-
-
+09:00-13:00:: "Worked on and redone paragraphs for Larain Studios."
 
 CALCULATED TIME (0.0, 0.0)
 
-21:04 - 22:40:: "Work on 'Lighting' project"
-
-CALCULATED TIME (1.0, 36.0)
-
-14:56 - 17:57:: "Work on generating sphere, draw sphere with triangle strips"
-
-CALCULATED TIME (3.0, 1.0)
-
-11:03 - 18:03:: "Work on 'Rendering Geometry' project", "Further research on 'Triangle Strips' required"
-
-CALCULATED TIME (7.0, 0.0)
-
-
+13:01-14:00:: "Lunch and reviewed the essay for Larain Studios."
 
 CALCULATED TIME (0.0, 0.0)
 
-20:00 - 23:53:: "Documentation on 'Rendering Geometry' project", "Further research on generating sphere", "Further research on 'Triangle Strips' required"
-
-CALCULATED TIME (3.0, 53.0)
-
-@trentbutler move your card and be an employee
+14:01- 18:00:: "Worked on setting up and completed the aerodynamics for the cloth simulation."
 
 CALCULATED TIME (0.0, 0.0)
-
-
-
-CALCULATED TIME (0.0, 0.0)
-
-
-
-CALCULATED TIME (0.0, 0.0)
-
-15:03 - 17:56:: "Lecture on 'Phong Lighting Model'", "Helped @dylanmitchell2 with 'camera", "Further research on 'Phong Lighting Model' required"
-
-CALCULATED TIME (2.0, 53.0)
-
-
-
-CALCULATED TIME (0.0, 0.0)
-
-21:38 - 03:32:: "Work on 'Rendering Geometry' project"
-
-CALCULATED TIME (18.0, 6.0)
-
-09:03 - 18:07::"Research on 'Textures'", "Lecture on Lighting"
-
-CALCULATED TIME (9.0, 4.0)
-
-10:04 -  01:42:: "Continue implementation of object loader method"
-
-CALCULATED TIME (9.0, 38.0)
-
-09:42 - 23:02:: "Research on 'wavefront obj file format'"
-
-CALCULATED TIME (14.0, 40.0)
-
-22:22 - 23:34:: "Finish refactor 'RenderingGeometry' project", "Implementation of 'object loader' class required"
-
-CALCULATED TIME (1.0, 12.0)
-
-08:54 - 17:33:: "OpenGl rendering practice", "Begin refactor of 'RenderingGeometry project"
-
-CALCULATED TIME (9.0, 21.0)
-
-22:16 - 23:23:: "OpenGl rendering practice", "Further research on OpenGL rendering required"
-
-CALCULATED TIME (1.0, 7.0)
-
-15:39 - 18:00:: "OpenGL rendering practice"
-
-CALCULATED TIME (3.0, 39.0)
-
-
-
-CALCULATED TIME (0.0, 0.0)
-
-20:00 - 21:13:: "Continued OpenGl rendering practice", "Further research on OpenGl rendering pipeline required"
-
-CALCULATED TIME (1.0, 13.0)
-
-15:48 - 16:42:: "'Mesh' class implementation"
-
-CALCULATED TIME (1.0, 6.0)
-
-09:55 - 13:10:: "Math quiz", "Review of 'math quiz'", "Lecture on rendering geometry in OpenGL"
-
-CALCULATED TIME (4.0, 45.0)
-
-
-
-CALCULATED TIME (0.0, 0.0)
-
-14:00 - 18:54:: "OpenGL rendering practice"
-
-CALCULATED TIME (4.0, 54.0)
-
-
-
-CALCULATED TIME (0.0, 0.0)
-
-20:25 - 23:31:: "Setup ssh key for pc", "Continued OpenGl rendering practice"
-
-CALCULATED TIME (3.0, 6.0)
 
 :thumbsup: 
 
 CALCULATED TIME (0.0, 0.0)
 
-09:20 - 10:43:: "Work on calculating 'mouse delta'", "research on 'Euler angles' required"
+13:00-14:30:: "Worked on correcting particle assignment to spring damper. Added gravity."
 
-CALCULATED TIME (1.0, 23.0)
+CALCULATED TIME (0.0, 0.0)
+
+14:31-14:45:: "Weekly standup."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:46-16:00:: "Added more spring dampers to connect to every other particle to create bending springs"
+
+CALCULATED TIME (0.0, 0.0)
+
+16:01-16:25:: "Set the top and bottom particles to be locked in place at their original positions."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:26-18:00:: "Setting up a triangle list for the beginning to apply aerodynamic forces."
+
+CALCULATED TIME (0.0, 0.0)
+
+07:15-09:00:: "Arrived. Prepared and done interview with Kieron Kelly for volunteering for Larain's booth at PAX."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:01-11:00:: "Research on Divinity: Original Sin 2 for an essay about how I would explain the game to someone who doesn't know about the game and the difference between their first and second Divinity game."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:01-13:30:: "Worked on Clothe simulation. Reworked logic for attaching two particles together for the spring damper." 
+
+CALCULATED TIME (0.0, 0.0)
+
+13:31-15:25:: "Gathered more information for Divinity: Original Sin 2."
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30:: "Arrived"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:31-10:00:: "Changes to the website and worked on setting an iterator to set the spring damper."
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-13:00:: "Lecture on Aerodynamics and a breakdown of its algorithm. Setup Skype account for an interview with Larain for volunteering at PAX South."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-18:30:: "Created function to generate an N by N grid of spheres to represent particles of a cloth. Worked on setting up spring damper behaviour"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30:: "Arrived."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-10:00:: "Worked on a website."
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-11:00:: "Listened to a lecture on the specifics of the algorithm for spring damping."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:01-12:00:: "Participated in mock-up interviews."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:00:: "Wrote a summary of the interview exercise."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-16:00:: "Continued work on my website."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:01-18:00:: "Implemented correct spring behavior for two particles. Started working on being able to create a cloth from a grid of particles."
+
+CALCULATED TIME (0.0, 0.0)
+
+@nicholasarnaud :thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+12:50-14:00:: "Arrived and filled out a survey about my experience. Continued improving the resume.Done weekly standup."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-14:30:: "Listened to a lecture on cloth simulation"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:31:: "Startup with implementing Hooke's Law for particles."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:32-18:00:: "Created behavior for the spring damper. One problem encountered was particles were "fighting" instantiation and forces weren't being applied. Fixed by instantiating particles on awake instead of the startup.
+
+CALCULATED TIME (0.0, 0.0)
+
+The current behavior is second particle flies away from the other."
+
+CALCULATED TIME (0.0, 0.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+10:45-12:00:: "Worked on the side project for Dylan. creating the pickup and item behavior."
+
+CALCULATED TIME (0.0, 0.0)
+
+07:26-09:30:: "Research with Skyrim's creation tool and learning its UI"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-09:30:: "Went over on how you can set UI variables to a script using scriptable objects."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:31-11:00::  "Worked on improving UI and how it is handled. Added a flocking behavior game object and script to separate the actual behavior of the boids from the Agent Factory."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:01-11:40:: "Listened to Regi's presentation on Cloud Building and how to use it."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:41-13:00:: "Worked on Setting boid project up to build using Cloud Building. **Problems Encountered:**
+
+CALCULATED TIME (0.0, 0.0)
+
+**Errors:** Player export failed.Null Exemption Error. Solved by setting list to a new list on the declaration in class.  Another cause for an error was to specify the incorrect version of Unity which can easily be fixed by changing that in the config settings in the cloud build.
+
+CALCULATED TIME (0.0, 0.0)
+
+**Warnings:** Shader Unsupported: A possible solution could be by setting game objects with a custom material instead of the object's default."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-16:30:: "Worked on release page and cloud builds for the boid project. Reviewed Regi's slideshow and commas can be used more in the first bullet point on the sixth slide."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:31-17:20:: "Had a meeting with Mr. Matt about how to improve my resume and what to look out for when looking through the requirements of jobs."
+
+CALCULATED TIME (0.0, 0.0)
+
+17:21-18:00:: "Worked on improving my resume"
+
+CALCULATED TIME (0.0, 0.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-10:00:: "Joined into Dylan's side project with artists and looked into the project structure."
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-13:00:: "Worked more on a resume and applied for a couple technology jobs." 
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-18:00:: "Added more UI to the boids project and able to adjust the force of boids going after the target sphere."
+
+CALCULATED TIME (0.0, 0.0)
+
+18:01-18:35:: "Attended meeting for information about what has to happen with deciding to create a new game business, and what to look out for in contracts."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:00:: "Entered class"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-13:20:: "Went over the new format of the desk setup for the class."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:21-14:00:: "Reviewed code from boids project."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-14:15:: "Weekly stand-up."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:20-18:00:: "Worked on exercise to do a quick-turn system. Current Issue: No acceleration decrease when turning back."
+
+CALCULATED TIME (0.0, 0.0)
+
+18:01-18:25:: "Introduced to the side project that Dylan is working on with some artists."
+
+CALCULATED TIME (0.0, 0.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30:: "Arrived"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:31-13:00:: "Worked on experimenting with values for the vector math for each boid behavior to create a more realistic effect and a faster movement."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-18:00:: "More work on boid behaviors and now using a different way to set velocity and position. Added a "chase" behavior and "border" behavior to keep boids in a certain range." 
+
+CALCULATED TIME (0.0, 0.0)
+
+good log, document the specific issues you have so you can reproduce those issues as topics for interview jargon later
+
+CALCULATED TIME (0.0, 0.0)
+
+09:10-09:25:: "Took Quiz on Creating and attaching boid behavior to objects."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:26-10:00:: "Worked on implementing boid behavior."
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-10:30:: "Review on quiz" 
+
+CALCULATED TIME (0.0, 0.0)
+
+10:31-11:30:: "Went over how to go about implementing boid behaviors."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:31-13:00:: "Continued to try to implement boids correctly.Fixed incorrect math."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-16:00:: "Implemented Cohesion, Dispersion, and Alignment behaviors. Problems included using a new list of agents for each force and implementing negative magnitude. "
+
+CALCULATED TIME (0.0, 0.0)
+
+13:30- 14:10:: "Learned how to go about creating a website"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:11-14:45:: "Lecture on Boids and flocking behavior"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:46-18:00:: "Started implementing boids"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:40:: "Arrived"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:15-10:00:: "Took Quiz"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-13:00:: "Looked more in AABB algorithm"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-16:00:: "Lecture on scriptable objects and event triggers"
+
+CALCULATED TIME (0.0, 0.0)
+
+16:01-18:00:: "Worked on implementing event triggers for collision"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-09:30:: "Worked on Collision detection"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:31-10:20:: "Listened to Ms.Cami talk about resumes and Linkedin"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:21-10:42:: "Worked on Morning Assignment"
+
+CALCULATED TIME (0.0, 0.0)
+
+11:43-13:00:: "Worked on Sweep & Prune algorithm"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01- 18:00:: "Continued work on algorithm"
+
+CALCULATED TIME (0.0, 0.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+13:00-14:00:: "Read through some of the slides on Physics for the next assessment"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-15:00:: "Presented games made from Game Jam"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-16:00:: "Listened to a lecture on Intro to Physics"
+
+CALCULATED TIME (0.0, 0.0)
+
+16:01-17:00:: "Lecture on math collision"
+
+CALCULATED TIME (0.0, 0.0)
+
+17:00-18:00:: "Exercise to check for a collision between two objects in 2D"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30-10:00:: "Set up animations for enemy"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-13:00:: "Added Main Menu texture. Created a script that places a random win location. Audio and build test without the final map."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30-13:00:: "Worked on UI and Menus. Setup for scenes."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-18:00:: "Fixed anchors on buttons, created script to handle button pressing. Setup audio files."
+
+CALCULATED TIME (0.0, 0.0)
+
+21:55-23:10:: "Finished Unity's Cellular Automata project"
+
+CALCULATED TIME (0.0, 0.0)
+
+23:11- 01:10:: "Research and exercise on procedural landmass generation techniques"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30-11:45:: "Continued Cellular Automata tutorial."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:46-13:00:: "Went over on how to make a project."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-13:20:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:21-14:20:: "Discussed the problem to be solved for Hilbert curve algorithm project with Mr.Matt"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:21-16:30:: "Continued through example process of building a game for ideas."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:31-18:00:: "Continued working on Automata project"
+
+CALCULATED TIME (0.0, 0.0)
+
+18:01-18:20:: "More discussion with Mr.Matt about the Hilbert curve algorithm. Experimentation with the Hilbert algorithm."
+
+CALCULATED TIME (0.0, 0.0)
+
+22:00-23:00:: "Research on bit-shifting and fractals."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:01-11:00:: "Relearned how to use scriptable objects. Done a unity tutorial for scriptable objects."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:01-11:30:: "Went over what SOLID is and a general "What to do?" when starting a new project."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:31-13:00::"Done an assignment for scriptable objects."
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-14:45:: "Listened to Regina talk about our loans"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:46-15:50:: "Tried setting up to build to android devices"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:51-16:00:: "Discussed a little bit about the game jam next week. Created a trello board for it."
+
+CALCULATED TIME (0.0, 0.0)
+
+16:01-18:10:: "Researched more about procedural generation algorithms such as Z-Order curve and Hilbert curve algorithm."
+
+CALCULATED TIME (0.0, 0.0)
+
+23:01-01:15:: "Worked on a Cellular Automata algorithm implementation."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-12:00:: "Major refactoring to entire project for better organization and better project separation. Began documentation for Computer Graphics Assessment."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-12:30:: "Setup for executable projects."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:31-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01- 14:20::"Worked on warm-up assignment"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:41-18:00::"Continued documentation on assessment. Added cameras and projections project back into the project repository."
+
+CALCULATED TIME (0.0, 0.0)
+
+10:10-13:00:: "Worked on documentation for procedural generation."
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30-11:30:: "Continued work on teleporters for IE Day. Corrected behaviors to delete teleporters that are using more than 2 keys and with only 1 key to make sure the behavior is consistent. Tested teleporters to make sure they work as intended."
+
+CALCULATED TIME (0.0, 0.0)
+
+11:31-12:00:: "Tested and played with Dylan's door behavior and Gizmos draw."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-12:50:: "Read through Dylan's tutorial for IE Day as a reference for my own version of the tutorial."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:51-13:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-18:00:: "Worked on procedural generation assessment documentation"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30-12:00:: "Corrected my noise algorithm more to no longer repeat a pattern by randomizing the prime numbers used. This also corrected the noise affecting only one corner of the plane. Got a better understanding what is happening and what each segment of the algorithm does."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:00:: "Started on helping with the interactive experience day project. Familiarized myself on the standard used for the project to not screw anything up." 
+
+CALCULATED TIME (0.0, 0.0)
+
+13:00-14:00::  "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-18:00::  " Worked on a teleporter pad  for the interactive experience day project."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:45:: "Arrived"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:46-13:20:: "Signed into Unity Connect, added contacts and included last years final project to my profile"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:21-18:00:: "Worked on my own noise algorithm. Was impossible to see or show much happening. Added a sin then multiplied by -.2 to algorithm to give negative values and produced a neat unfolded napkin pattern. Multiplied the cos function by .7 instead of 1 to produce more noise like quadrants within squares generated"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30-09:40:: "Discovered problem that wasn't loading the shader correctly, was trying to use an old library file. Wasn't loading the library files and filling necessary information, now able to get noise on plane."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:41-12:00:: "Started working on my own version of Perlin Noise."
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:00:: "Helped a first year student with replacing a substring" 
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-18:00:: "Continued my own Perlin noise and i have one side of the plane being elevated "
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30:: "Arrived"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:31-10:35:: "Worked on correcting Uv setup for generating a plane with the texture"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:36-11:50:: "Google hangout w/ Instructor about Shadows"
+
+CALCULATED TIME (0.0, 0.0)
+
+11:51-13:00:: "Tried changing everything involving setting the grid and now unsure where the information being sent is wrong"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-18:00:: "Tried finding the problem with generating the noise texture onto the plane"
+
+CALCULATED TIME (0.0, 0.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+08:50:: "Arrived"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:55- 11:30:: "Helped a first year student with custom string classes"
+
+CALCULATED TIME (0.0, 0.0)
+
+11:31-12:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01- 12:30:: "Worked on normalizing textures"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:31-13:30:: "Watched google chat with the owner of the school"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:31- 14:30:: "Started to implement Perlin Noise algorithm into my project."
+
+CALCULATED TIME (0.0, 0.0)
+
+14:31-15:20 :: "Problem where that I'm getting a black plane with red pixel like squares on the top side of the plane. Was using wrong shader."
+
+CALCULATED TIME (0.0, 0.0)
+
+15:21-17:43:: "Tried to implement Perlin Noise to a large generated plane but can't find where the exact problem is. I suspect It to be the math where i set the UV's. All that is being printed is a solid grey plane"
+
+CALCULATED TIME (0.0, 0.0)
+
+17:44-18:00:: "Was able to implement Perlin Noise to my sphere."
+
+CALCULATED TIME (0.0, 0.0)
 
 
 
 CALCULATED TIME (0.0, 0.0)
 
-11:43 - 1400:: "Research on Euler angles"
-
-CALCULATED TIME (3.0, 43.0)
-
-
+07:00-08:30:: "Talked with an art student about his side for UV mapping and texturing and explained each others side on how we go about creating and setting them"
 
 CALCULATED TIME (0.0, 0.0)
 
-21:33 - 23:39:: "Research on 'yaw' and 'pitch', "'FlyCamera' implementation", " Further research on 'Euler angles' required"
-
-CALCULATED TIME (2.0, 6.0)
-
-10:55 - 00:15::"Implement "orthographic" projection", "Test "lookAt()" function"
-
-CALCULATED TIME (10.0, 40.0)
-
-@trentbutler :thumbsup: 
+08:10:: "Arrived"
 
 CALCULATED TIME (0.0, 0.0)
 
-11:21 - 17:59:: "OpenGL 'camera' implementation", "Research rotation matrices"
-
-CALCULATED TIME (6.0, 38.0)
-
-09:02 - 13:00:: "OpenGL rendering geometry lecture"
-
-CALCULATED TIME (4.0, 2.0)
-
-14:21 - 18:24::"OpenGL 'camera' implementation"
-
-CALCULATED TIME (4.0, 3.0)
-
-11:00 - 12:00:: "Matrix review with @chuwilliamson"
-
-CALCULATED TIME (1.0, 0.0)
-
-13:01 - 18:02:: "Transformation practice"
-
-CALCULATED TIME (5.0, 1.0)
-
-08:44 - 09:38:: "Perspective projection generation research"
-
-CALCULATED TIME (1.0, 6.0)
-
-@trentbutler finish your log
+08:30-09:30:: "Took survey"
 
 CALCULATED TIME (0.0, 0.0)
 
-09:30 - 10:23:: "Begin 'camera' implementation"
-
-CALCULATED TIME (1.0, 7.0)
-
-11:26 - 01:50:: "Matrix math practice", "Continue 'camera' implementation"
-
-CALCULATED TIME (10.0, 24.0)
-
-10:20 - 13:00:: "OpenGL practice"
-
-CALCULATED TIME (3.0, 20.0)
-
-14:40 - 17:54:: "Assessment", "Lecture on transformations"
-
-CALCULATED TIME (3.0, 14.0)
-
-@trentbutler udabest
+09:31-11:15 :: "Worked on setting two textures on the same object"
 
 CALCULATED TIME (0.0, 0.0)
 
-09:58 - 18:05:: "Lecture on setting up dependencies", "OpenGL practice"
-
-CALCULATED TIME (9.0, 53.0)
-
-
+12:30-13:30:: "Lecture on animations"
 
 CALCULATED TIME (0.0, 0.0)
 
-
-
-CALCULATED TIME (0.0, 0.0)
-
-13:51 - 17:59:: "OpenGL Shader lecture", "Practice with setting up visual studio dependencies"
-
-CALCULATED TIME (4.0, 8.0)
-
-
+13:31-14:30:: "Lunch"
 
 CALCULATED TIME (0.0, 0.0)
 
-
-
-CALCULATED TIME (0.0, 0.0)
-
-
+14:31-15:30:: "Worked on generating two objects with their own shader and textures."
 
 CALCULATED TIME (0.0, 0.0)
 
-
-
-CALCULATED TIME (0.0, 0.0)
-
-
+15:31- 18:00:: "Organized code a bit to easier understand the process to texture objects"
 
 CALCULATED TIME (0.0, 0.0)
 
-00:21 - 02:38
-
-CALCULATED TIME (2.0, 17.0)
-
-"Further implementation on 'Bunny simulation'"
+:thumbsup: 
 
 CALCULATED TIME (0.0, 0.0)
 
-"Practice with 'vector' storage container"
+08:30:: "Arrived"
 
 CALCULATED TIME (0.0, 0.0)
 
-
-
-CALCULATED TIME (0.0, 0.0)
-
-10:15 - 11:00
-
-CALCULATED TIME (1.0, 15.0)
-
-"Begin implementation of 'Bunny simulation'"
+08:31-10:00 ::" Corrected camera to shader and now able to move freely around the empty void with a 2D box. Worked on setting up a generated grid for textures."
 
 CALCULATED TIME (0.0, 0.0)
 
-
-
-CALCULATED TIME (0.0, 0.0)
-
-12:58 - 14:56
-
-CALCULATED TIME (2.0, 2.0)
-
-"Continued implementation of 'Bunny simulation'"
+10:01-10:40:: "Fixed orientation of object texture"
 
 CALCULATED TIME (0.0, 0.0)
 
-"Research on 'vector' storage container"
+11:00-12:50:: "In-Depth lecture on Perlin noise"
 
 CALCULATED TIME (0.0, 0.0)
 
-
+12:51-13:00:: "Lunch" 
 
 CALCULATED TIME (0.0, 0.0)
 
+13:01-15:00:: "Worked on adding a texture to a sphere with the main problem being how I was setting the layout location for the UV map in the shader. Tried loading multiple textures on different objects at once"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:00-17:00:: "Worked on implementing phong lighting with textures loaded onto an object"
+
+CALCULATED TIME (0.0, 0.0)
+
+:thumbsup: 
+
+CALCULATED TIME (0.0, 0.0)
+
+08:55-09:47:: "Worked on making the Secular Lighting work, the problem specular power is being sent into the shader and used incorrectly"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:48- 10:50:: "Tried to change camera rotation to work as it should"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:51-11:05:: "Took quiz"
+
+CALCULATED TIME (0.0, 0.0)
+
+11:06-12:00:: "Made camera rotate better"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lecture review on textures"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-15:40:: "Lecture on how to implement texturing"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:41-18:00:: "Worked on creation of texture project and implementation of using textures on a grid"
+
+CALCULATED TIME (0.0, 0.0)
+
+19:01-22:00:: "Worked on documentation for lighting assessment"
+
+CALCULATED TIME (0.0, 0.0)
+
+22:10-24:50:: "Tried plugging in configuration to run python for Android, SL4A(scripting layer for Android), and Rhino(JavaScript) to code on the go with my phone"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:30-12:50:: "Programmed calculator to simplify square roots and to get the dot product of two vectors with the use of TI-Basic which seems like the calculators version of Assembly language"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-13:00:: "Worked on specular lighting and can't figure out what's incorrect"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-18:00:: "Continued agony of specular lighting"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:50-10:35 :: "Worked on creating lighting"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:36-12:00:: "Listened to an In-Depth lecture on texturing with a guest speaker"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-13:30:: "Went over on how to get the halfway vector for reflecting light"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:31-14:30:: "Generated diffuse lighting onto the sphere"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:31-15:00:: "Created ambient lighting, and got a better understanding of the actual process of generating the light with the phong lighting algorithm" 
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-18:00:: "Tried to help @ryanbates8 with his code"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:45:: "Arrived and read the comments on canvas about the assessment"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:46-11:00:: "Corrected small errors in the rendering geometry project for the assessment"
+
+CALCULATED TIME (0.0, 0.0)
+
+11:01-12:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-14:25:: "Worked on exercise for lighting"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:26-14:45:: "Listened to Mr.Matt talk about UV and texturing. As well as the plans for tomorrow"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:26-18:00:: "Setup a new project to support the rendering geometry project as a static library for the lighting assessment"
+
+CALCULATED TIME (0.0, 0.0)
+
+18:01-18:30:: "Properly submitted assessment project"
+
+CALCULATED TIME (0.0, 0.0)
+
+19:45-22:10:: "Setup scene for lighting project, generating a sphere, and grid. Created Vertex and Fragment files for lighting."
+
+CALCULATED TIME (0.0, 0.0)
+
+18:50-20:10 :: "Worked on Lighting"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-09:15:: "Took test on lighting. Which was annoying to how technical the answers have to be for the test. Also seeing the answer needing variables as subscripts."
+
+CALCULATED TIME (0.0, 0.0)
+
+09:16-10:00:: "Refactored code to reduce redundancy in the draw function and revised generating objects function"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-10:45:: "Discussed the test and reviewed it with Mr.Matthew"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:46-12:00:: "Continued refactoring code and making functions and variables clearer to understand"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:00:: "Lecture on ambient and specular lighting"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-15:30:: "Worked on implementing function that renders a sphere with triangles"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:31-17:00:: "Transferred code that generated the half circle, full sphere, and generated indices into separate functions
+
+CALCULATED TIME (0.0, 0.0)
+
+17:01-18:00:: "Started documentation for assessment"
+
+CALCULATED TIME (0.0, 0.0)
+
+19:34-00:00:: "Worked on documentation and struggled sending the project"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:45:: "Arrived"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:46-09:25:: "Worked on Rendering multiple objects at once"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:26-10:10:: "Worked on Gist Assignment"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:30-11:20:: "Review on Gist Assignment"
+
+CALCULATED TIME (0.0, 0.0)
+
+11:25-12:30:: "Worked on Shader class"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:31-13:00:: "Started with lighting tutorial"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-16:00:: "Continued lighting tutorial"
+
+CALCULATED TIME (0.0, 0.0)
+
+16:01-18:00:: "Continued to implement a shader class that now uses a filereader"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:21:: "Arrived"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:22-14:30:: "Took test on Unit Circle"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:31-15:00:: "Review on what is due Friday night"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-15:45:: "Lecture on lighting"
+
+CALCULATED TIME (0.0, 0.0)
+
+16:00-17:00:: "Lecture on math of the lighting algorithms"
+
+CALCULATED TIME (0.0, 0.0)
+
+17:01-18:00:: "Worked on separating functions more"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:30-10:00:: "Joined during a lecture"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-13:00:: "Worked on displaying a sphere correctly"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-15:00:: "Creation of the sphere and worked on creation of a plain"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:45-09:00:: "Studied for retest on vector math"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:01-09:30:: "Took test and made dumb errors like putting the plus sign instead of the minus sign for cross products and making a number negative instead of positive"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:31-11:00:: "Worked on adding a shader class to the rendering geometry project"
+
+CALCULATED TIME (0.0, 0.0)
+
+11:01-12:00:: "Lecture on how to create a 3D Circle"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:01-13:05:: "Worked on implementing the math to create the sphere"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:00-12:30:: "Worked on doing recursion creation of triangles to make them into strips"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:31-13:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-15:00:: "Practice test on drawing a half circle"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:01-15:30:: "Went over test from last Friday"
+
+CALCULATED TIME (0.0, 0.0)
+
+15:31-16:30:: "Lecture on the shader class and what it does"
+
+CALCULATED TIME (0.0, 0.0)
+
+16:31-18:00:: "Worked on generating a half circle and an entire 2D circle"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30-09:30:: "Refactored camera class and camera app"
+
+CALCULATED TIME (0.0, 0.0)
+
+09:31-13:00:: "Created a fresh project for rendering geometry to better understand what is happening"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-18:00::"Created window; started rendering an example shape, 2D triangle, 2D square, and a 3D cube"
+
+CALCULATED TIME (0.0, 0.0)
+
+08:30-10:00 ::" Worked on gist assignment to read from a file"
+
+CALCULATED TIME (0.0, 0.0)
+
+10:01-11:00:: "Test on vector math"
+
+CALCULATED TIME (0.0, 0.0)
+
+11:01-11:30:: "Reviewed test"
+
+CALCULATED TIME (0.0, 0.0)
+
+11:31-12:15:: "Lecture on rendering geometry"
+
+CALCULATED TIME (0.0, 0.0)
+
+12:16-13:00:: "Started rendering project"
+
+CALCULATED TIME (0.0, 0.0)
+
+13:01-14:00:: "Lunch"
+
+CALCULATED TIME (0.0, 0.0)
+
+14:01-18:00:: "Continued with rendering project and fixed major errors with the project construction and properties"
+
+CALCULATED TIME (0.0, 0.0)
+
+11:02-17:35 :: "Worked on a new project for the camera and projection project for 
