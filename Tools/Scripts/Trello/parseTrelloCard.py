@@ -12,48 +12,30 @@ import re
 
 #FUNCTION TO REMOVE ALL UNDESIRED CHARACTERS FROM A STRING
 def stripString(s):
-    
-    #charList = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '-', '\n'] #LIST OF ACCEPTABLE CHARACTERS
-    
-    #expression = re.split('[0-9]{2}:?[0-9]{2}-[0-9]{2}:?[0-9]{2}', s)
-    raw_timestamp_list = re.split('(::)?', s)
-    what_we_want = []
-    for timestamp in raw_timestamp_list:
-        if(re.match('[0-9]{2}:?[0-9]{2}-[0-9]{2}:?[0-9]{2}', timestamp)):
-            what_we_want.append(timestamp)
-    
-    print what_we_want
-    
-    os.system("pause")
-    return ""
+    charList = ['0', '1', '2', '3', '4', '5', '6', '7', '8', '9', '-', '\n'] #LIST OF ACCEPTABLE CHARACTERS
+    returnString = ''
 
-    # if expresion is False:
-    #     return ""
+    if s[0] == '@': #THIS IS A STRING THAT IS UNDESIRED
+        return "" #RETURN A EMPTY STRING
 
-    # else:
-    #     returnString = ''
+    for c in s:
+        for CHARACTER in charList: #ITERATE THROUGH THE CHARLIST, IF THE CURRENT CHARACTER FROM THE STRING(s) IS ONE FROM THE CHARLIST,
+            if c == CHARACTER:
+                returnString += c #ADD THE CHARACTER TO RETURNSTRING
 
-    #     if s[0] == '@': #THIS IS A STRING THAT IS UNDESIRED
-    #         return "" #RETURN A EMPTY STRING
+    if len(returnString) < 9: #IF RETURN STRING HAS LESS THAN 9 CHARACTERS, RETURN A EMPTY STRING
+        return ""
 
-    #     for c in s:
-    #         for CHARACTER in charList: #ITERATE THROUGH THE CHARLIST, IF THE CURRENT CHARACTER FROM THE STRING(s) IS ONE FROM THE CHARLIST,
-    #             if c == CHARACTER:
-    #                 returnString += c #ADD THE CHARACTER TO RETURNSTRING
+    if len(returnString) > 9: #TRIM THE END OF ANY STRING THAT HAS MORE THAN 9 CHARACTERS
+        trimmedString = ''
+        count = 1
+    for char in returnString:
+        if(count > 9):
+            return trimmedString
+        trimmedString += char
+        count += 1
 
-    #     if len(returnString) < 9: #IF RETURN STRING HAS LESS THAN 9 CHARACTERS, RETURN A EMPTY STRING
-    #         return ""
-
-    #     if len(returnString) > 9: #TRIM THE END OF ANY STRING THAT HAS MORE THAN 9 CHARACTERS
-    #         trimmedString = ''
-    #         count = 1
-    #         for char in returnString:
-    #             if(count > 9):
-    #                 return trimmedString
-    #             trimmedString += char
-    #             count += 1
-
-    #     return returnString
+    return returnString
 
 #FUNCTION TO RETURN A TUPLE REPRENSATION OF CHANGE IN TWO DIFFERENT TIMES (HOURS, MINUTES)
 def calculateHours_24(s):
@@ -98,7 +80,7 @@ def calculateHours_24(s):
     return (dHour, dMinute)
 
 
-cardURL = urllib2.urlopen('https://trello.com/c/eVBRvRqX/11-nicholas-arnaud.json') #LOAD THE .JSON VERSION OF A TRELLO CARD
+cardURL = urllib2.urlopen('https://trello.com/c/G7HhEYxC/4-trent-butler.json') #LOAD THE .JSON VERSION OF A TRELLO CARD
 
 #DUMP THE JSON TO A STRING REPRESENTATION/FILE
 rawJSON = cardURL.read()
